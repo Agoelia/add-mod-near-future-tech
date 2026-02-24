@@ -11,7 +11,7 @@
   },
   "servers": [
     {
-      "url": "https://cataclysmbnteam.github.io/registry",
+      "url": "https://cataclysmbn.github.io/registry",
       "description": "Production"
     }
   ],

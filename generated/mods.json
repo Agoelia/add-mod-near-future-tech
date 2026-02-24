@@ -3164,19 +3164,19 @@
     ],
     "license": "CC-BY-SA-4.0",
     "homepage": "https://github.com/graysonchao/CBN-Sky-Island",
-    "version": "v0.0.7-alpha",
+    "version": "0.0.8-alpha",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
-      "url": "https://github.com/graysonchao/CBN-Sky-Island/archive/refs/tags/v0.0.7-alpha.zip",
-      "commit_sha": "f0360b0948989847e77de10d16c74ebb7a11469c"
+      "url": "https://github.com/graysonchao/CBN-Sky-Island/archive/refs/tags/v0.0.8-alpha.zip",
+      "commit_sha": "477e81417e90b85fdee7d83aa6c16c9a4a04dcaf"
     },
     "autoupdate": {
       "type": "tag"
     },
-    "last_updated": "2026-01-07T13:30:31.938Z"
+    "last_updated": "2026-02-24T14:26:42.438Z"
   },
   {
     "schema_version": "1.0",
