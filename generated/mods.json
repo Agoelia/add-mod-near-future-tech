@@ -4164,7 +4164,7 @@
     "categories": [
       "content"
     ],
-    "icon_url": "https://media.discordapp.net/attachments/1093580823351001098/1447950186092429414/viewimage-1371.png?ex=69397c31&is=69382ab1&hm=db85a25e2c51d15167cff45501c37e607025d8edcbac9d68fdd08f85aef3a6cd&=&format=webp&quality=lossless&width=569&height=569",
+    "icon_url": "https://raw.githubusercontent.com/NobleJake/ProjectPackRat/8682733b32eda1b463e9ea58245aaae68cd1a733/ProjectSquirrel/icon.png",
     "autoupdate": {
       "type": "commit",
       "branch": "main"
