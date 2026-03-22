@@ -8,6 +8,7 @@ author:
   - Another Marius
 license: CC-BY-SA-4.0
 version: 0.0.0
+icon_url: https://github.com/thhoney08/ZombieHighMod/blob/2f3b44b710232ffb61b5baf718e74af480aef5bf/Zhigh_mod/icon.png
 source:
   type: github_archive
   url: "https://github.com/thhoney08/ZombieHighMod/archive/refs/heads/main.zip"
