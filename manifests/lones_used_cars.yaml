@@ -17,6 +17,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/thelonestander/Lones-Used-Cars/492b6c09f627b4cd40d48e453d519641786805d2/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

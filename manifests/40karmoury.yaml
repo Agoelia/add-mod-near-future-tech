@@ -23,6 +23,8 @@ categories:
   - items
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/kingcet/WH40K-Imperial-Armoury/f863f21df6a9b72bc1287a28cf8885c8aeeeddc2/WH_40K_Imperial_Armoury/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

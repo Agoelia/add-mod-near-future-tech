@@ -64,6 +64,9 @@ source:
   url: >-
     https://github.com/graysonchao/CBN-Sky-Island/archive/refs/tags/v0.0.8-alpha.zip
   commit_sha: 477e81417e90b85fdee7d83aa6c16c9a4a04dcaf
+modinfo_url: "https://raw.githubusercontent.com/graysonchao/CBN-Sky-Island/477e81417e90b85fdee7d83aa6c16c9a4a04dcaf/modinfo.json"
+uses_lua: true
+lua_api_version: 2
 autoupdate:
   type: tag
 last_updated: "2026-02-24T14:26:42.438Z"

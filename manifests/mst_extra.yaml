@@ -21,6 +21,8 @@ categories:
   - items
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/chaosvolt/MST_Extra_Mod/10770a65561f3ed0a95c6f30f08734de031454cc/MST_Extra_BN/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: master

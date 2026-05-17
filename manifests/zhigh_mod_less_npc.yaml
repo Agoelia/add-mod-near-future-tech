@@ -18,6 +18,8 @@ categories:
 dependencies:
   bn: ">=0.9.1"
   zhigh_mod: "*"
+modinfo_url: "https://raw.githubusercontent.com/thhoney08/ZombieHighMod_LessNpcs/b52e5080b330567c53aaa385f74e4dc0527f2d4a/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

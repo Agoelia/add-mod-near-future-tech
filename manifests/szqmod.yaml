@@ -16,6 +16,8 @@ categories:
   - vehicles
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/SzQ1/SzQmod/47f0f33e984545bde85bdd75215c2f3261f8e5f2/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

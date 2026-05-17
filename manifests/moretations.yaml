@@ -25,6 +25,8 @@ categories:
   - mutations
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/bingosta/Moretations---More-unbalanced-mutations/069acb87dffe0e5c4e3c920f990d6ef7c6b318ed/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

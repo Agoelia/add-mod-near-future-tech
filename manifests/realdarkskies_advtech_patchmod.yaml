@@ -24,6 +24,8 @@ dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
   advtech: "*"
+modinfo_url: "https://raw.githubusercontent.com/Zlorthishen/Really_Dark_Skies/4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea/Patch_mods/RDS_plus_AdvancedTech/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

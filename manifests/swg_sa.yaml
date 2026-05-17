@@ -21,6 +21,8 @@ categories:
   - misc_additions
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/Shad0wBlad321/Profession-Mod/be2f1f958c17fbf2a5dbdff05ca45e690533fce5/Survivor%20With%20A%20Gun/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

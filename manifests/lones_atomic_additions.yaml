@@ -20,6 +20,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/thelonestander/Lones-atomic-additions/c3409e3122101d2daa7470e97351110286074658/Lones%20Atomic%20additions/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

@@ -23,6 +23,8 @@ categories:
   - items
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/chaosvolt/cdda_medieval_mod_reborn/bc8a31d64dc5a19b7e45f67d8cbbf41cee315d8d/Medieval_Mod_Reborn_BN/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: master

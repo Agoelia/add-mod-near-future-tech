@@ -21,6 +21,8 @@ categories:
 dependencies:
   bn: ">=0.9.1"
   cata++: "*"
+modinfo_url: "https://raw.githubusercontent.com/thelonestander/Lones-atomic-additions/c3409e3122101d2daa7470e97351110286074658/Cata%2B%2B%20patch%20mod/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

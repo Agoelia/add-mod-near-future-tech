@@ -19,6 +19,8 @@ categories:
 dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
+modinfo_url: "https://raw.githubusercontent.com/Zlorthishen/Really_Dark_Skies/4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea/Patch_mods/RDS_Reviving_Xenoids/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

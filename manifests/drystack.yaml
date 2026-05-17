@@ -23,6 +23,8 @@ categories:
   - rebalance
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/Lamandus/Stackgeneric/cdc630f215e9c1726680a27f664bef52b0908581/mods/Drystack/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

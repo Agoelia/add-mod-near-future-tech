@@ -20,6 +20,9 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/ihatenumbers/BN_Gawr_Gura/50c6627e21bab5455cbc06c7fc990489ccebf16c/modinfo.json"
+uses_lua: true
+lua_api_version: 2
 autoupdate:
   type: commit
   branch: main

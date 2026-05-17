@@ -16,6 +16,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/AlecWhite/Metal_Scrap_Walls/b38394082f0e63588f59d229f00424f0e65c8cf8/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

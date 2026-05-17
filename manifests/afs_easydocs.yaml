@@ -18,6 +18,8 @@ categories:
 dependencies:
   bn: ">=0.9.1"
   aftershock: "*"
+modinfo_url: "https://raw.githubusercontent.com/Relgar/AFS_Easydocs/922a8a19214466d05de7133070892ff3f90e5bc8/AFS_Easydocs/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

@@ -21,6 +21,9 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/shmakota/birdbox_mod_bn/b3ac37c1c9be11cbc7e91012d29bc92401d9b927/birdbox/modinfo.json"
+uses_lua: true
+lua_api_version: 2
 autoupdate:
   type: commit
   branch: main

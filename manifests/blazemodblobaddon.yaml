@@ -23,6 +23,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/yowshi/BlobExpansion/37c874f70c6e9278c094853e472d9cdd2a059e23/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: master

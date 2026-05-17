@@ -29,6 +29,8 @@ categories:
   - items
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/shmakota/Material-Plants/309366505af01c607bdd2db28d08b5c2fad98bba/Material%20Plants/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: master

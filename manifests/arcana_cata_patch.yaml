@@ -22,6 +22,8 @@ dependencies:
   bn: ">=0.9.1"
   arcana: "*"
   cata++: "*"
+modinfo_url: "https://raw.githubusercontent.com/chaosvolt/cdda-arcana-mod/37718985431bdbfbee1488e23747edbed3440cbf/Patchmods/BN_Arcana_Cata%2B%2B_Patch/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: master

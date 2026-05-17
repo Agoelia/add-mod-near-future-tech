@@ -16,6 +16,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/Fentanylreactor/CBN-INFPerks/9387fb98a69ec8933a47294a519956887458d7dc/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

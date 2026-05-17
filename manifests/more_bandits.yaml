@@ -20,6 +20,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/SzQ1/More-Bandits/c36d4d831c63e91d24c73448333fbf1419da32e4/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

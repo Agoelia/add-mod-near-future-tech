@@ -27,6 +27,9 @@ categories:
   - rebalance
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/shmakota/bodily_fluids_mod_bn/3a149705c06a492f5454cedb7d66aa6ddc3d681e/bodily_fluids/modinfo.json"
+uses_lua: true
+lua_api_version: 2
 autoupdate:
   type: commit
   branch: main

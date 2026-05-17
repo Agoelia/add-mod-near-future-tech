@@ -23,6 +23,8 @@ categories:
   - buildings
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/OpsCoretango/Nuclear_Power_Plant_BN/8ad9d49d2c6e997f3197bc9c400261e842502cc1/Nuclear_Power_Plant/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

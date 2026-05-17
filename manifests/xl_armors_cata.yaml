@@ -19,6 +19,8 @@ categories:
   - content
 dependencies:
   cata++: "*"
+modinfo_url: "https://raw.githubusercontent.com/leoCottret/cbn-leocottret-mods/57778ad68c1271f1e7069e5c6a0cebdfd40fa01a/MODS/XL_ARMORS_nocts_cata/XL_Armors_nocts_cata_mod_BN/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

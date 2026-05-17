@@ -20,6 +20,8 @@ categories:
   - vehicles
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/SzQ1/Visible-car-roofs/5e66a72e9d7aef05de2b6cb81e91cf2bb3deb838/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

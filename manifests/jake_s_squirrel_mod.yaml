@@ -17,6 +17,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/NobleJake/ProjectPackRat/a8718444676e1fc191c7a4b9470fcdcbf23bbbf5/ProjectSquirrel/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

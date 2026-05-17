@@ -26,6 +26,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/WarriorKingBob/Fallout_BrightNights/7010b550fc9f7c60c7a911c963a1f8d70e1cabd6/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

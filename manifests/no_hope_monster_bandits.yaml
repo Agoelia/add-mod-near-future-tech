@@ -23,6 +23,8 @@ categories:
 dependencies:
   bn: ">=0.9.1"
   gov_bandits: "*"
+modinfo_url: "https://raw.githubusercontent.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/13dfa70c98063827d03f827629495b7058f8dc1a/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

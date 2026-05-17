@@ -25,6 +25,8 @@ categories:
   - creatures
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/Baratan-creates/BN-FinalFantasyMod/b206c3f1eb1f47eddb50cc427658aa2dc61b06a6/FinalFantasyMod/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

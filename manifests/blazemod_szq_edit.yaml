@@ -16,6 +16,8 @@ categories:
   - vehicles
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/SzQ1/blazemod-SzQ-edit/b4b8ded0c6dd3e605d26766f5179d0e5a2a3362e/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

@@ -22,6 +22,8 @@ categories:
 dependencies:
   bn: ">=0.9.1"
   chorus_weapons: "*"
+modinfo_url: "https://raw.githubusercontent.com/yay855/ChorusMod/77f71e190c6bb430da393eb06ee49f336221715e/Chorus%20CBMs/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

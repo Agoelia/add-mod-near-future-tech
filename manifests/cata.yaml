@@ -39,6 +39,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/Noctifer-de-Mortem/nocts_cata_mod/640477a78597002ffbaa2c9bf52bf3a11edd8c59/nocts_cata_mod_BN/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: master

@@ -23,6 +23,8 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/SzQ1/More-Dangerous-Encounters/e1f7cd2d5dfd3b4db356b67d888d36caaf46c472/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

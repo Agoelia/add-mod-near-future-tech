@@ -22,6 +22,9 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/yct1998/BN_Talk_AI/8e8255fac9b03ee8bf464dc589dfa20d199a12e6/modinfo.json"
+uses_lua: true
+lua_api_version: 2
 autoupdate:
   type: commit
   branch: main

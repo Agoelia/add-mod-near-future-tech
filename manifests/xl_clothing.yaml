@@ -21,6 +21,8 @@ categories:
   - items
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/Krwak/XL-Clothing/c0ebaf2de67e3a626ae7008867fe503f0f659db4/XL%20Clothing/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

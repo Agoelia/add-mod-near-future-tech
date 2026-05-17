@@ -18,6 +18,8 @@ categories:
   - items
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/goldendragon900/cdda-bn-mountain-dew/90d710957e988bc589cc53677480a1ef4c79aad6/Mountain_dew/modinfo.json.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

@@ -17,6 +17,8 @@ categories:
   - rebalance
 dependencies:
   bn: ">=0.9.1"
+modinfo_url: "https://raw.githubusercontent.com/Relgar/CBN-No-Addictions/70eec8386256b2c154c7a7ad2efe2459972cf7b0/No_Addictions/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main

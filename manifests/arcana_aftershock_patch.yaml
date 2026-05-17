@@ -23,6 +23,8 @@ dependencies:
   aftershock: "*"
 yanked:
   reason: "Mainlined in Cataclysm: Bright Nights."
+modinfo_url: "https://raw.githubusercontent.com/chaosvolt/cdda-arcana-mod/37718985431bdbfbee1488e23747edbed3440cbf/Patchmods/BN_Arcana_Aftershock_Patch/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: master

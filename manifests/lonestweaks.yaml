@@ -19,6 +19,8 @@ dependencies:
   bn: ">=0.9.1"
   aftershock: "*"
   cata++: "*"
+modinfo_url: "https://raw.githubusercontent.com/thelonestander/Lones-Augmented-Arsenal/5dcd7555205af327d926594071a34291ed5e7748/modinfo.json"
+uses_lua: false
 autoupdate:
   type: commit
   branch: main
