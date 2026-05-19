@@ -23,6 +23,8 @@ categories:
   - content
 dependencies:
   zsfixed_cddaxp: "*"
+yanked:
+  reason: "can re-fit armors into XL"
 modinfo_url: "https://raw.githubusercontent.com/leoCottret/cbn-leocottret-mods/57778ad68c1271f1e7069e5c6a0cebdfd40fa01a/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_ZSFixed_CDDAXP/modinfo.json"
 uses_lua: false
 autoupdate:
