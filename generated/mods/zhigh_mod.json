@@ -21,8 +21,12 @@
     "extract_path": "ZombieHighMod-main/Zhigh_mod"
   },
   "tags": [],
+  "icon_url": "https://github.com/thhoney08/ZombieHighMod/blob/2f3b44b710232ffb61b5baf718e74af480aef5bf/Zhigh_mod/icon.png",
+  "modinfo_url": "https://raw.githubusercontent.com/thhoney08/ZombieHighMod/bf47b1fa4b426280b3498a42a18cc02ec0ddb0bb/Zhigh_mod/modinfo.json",
+  "uses_lua": false,
   "autoupdate": {
     "type": "commit",
     "branch": "main"
-  }
+  },
+  "last_updated": "2026-06-08T09:00:53+09:00"
 }

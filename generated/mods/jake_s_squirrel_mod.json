@@ -22,8 +22,11 @@
     "content"
   ],
   "icon_url": "https://raw.githubusercontent.com/NobleJake/ProjectPackRat/8682733b32eda1b463e9ea58245aaae68cd1a733/ProjectSquirrel/icon.png",
+  "modinfo_url": "https://raw.githubusercontent.com/NobleJake/ProjectPackRat/a8718444676e1fc191c7a4b9470fcdcbf23bbbf5/ProjectSquirrel/modinfo.json",
+  "uses_lua": false,
   "autoupdate": {
     "type": "commit",
     "branch": "main"
-  }
+  },
+  "last_updated": "2026-06-08T09:00:53+09:00"
 }

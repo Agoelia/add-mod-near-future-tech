@@ -9,6 +9,9 @@
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/chaosvolt/cdda-tankmod-revived-mod/tree/master/Tankmod_Revived_BN",
   "version": "0.0.0",
+  "yanked": {
+    "reason": "mainlined in Nightly 2026-05-17 (see https://github.com/cataclysmbn/Cataclysm-BN/pull/8894)"
+  },
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -21,8 +24,11 @@
   "categories": [
     "vehicles"
   ],
+  "modinfo_url": "https://raw.githubusercontent.com/chaosvolt/cdda-tankmod-revived-mod/ae4015995f7f619a35966b9a745209e91662971c/Tankmod_Revived_BN/modinfo.json",
+  "uses_lua": false,
   "autoupdate": {
     "type": "commit",
     "branch": "master"
-  }
+  },
+  "last_updated": "2026-06-08T09:00:53+09:00"
 }

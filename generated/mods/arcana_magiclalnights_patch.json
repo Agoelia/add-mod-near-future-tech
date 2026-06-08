@@ -9,6 +9,9 @@
   "license": "CC-BY-SA-3.0",
   "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_MagicalNights_Patch",
   "version": "0.0.0",
+  "yanked": {
+    "reason": "Mainlined in Cataclysm: Bright Nights."
+  },
   "dependencies": {
     "bn": ">=0.9.1",
     "arcana": "*",
@@ -23,6 +26,8 @@
   "categories": [
     "misc_additions"
   ],
+  "modinfo_url": "https://raw.githubusercontent.com/chaosvolt/cdda-arcana-mod/37718985431bdbfbee1488e23747edbed3440cbf/Patchmods/BN_Arcana_MagicalNights_Patch/modinfo.json",
+  "uses_lua": false,
   "autoupdate": {
     "type": "commit",
     "branch": "master"

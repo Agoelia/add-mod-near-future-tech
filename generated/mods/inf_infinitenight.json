@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "id": "inf_infinitenight",
+  "display_name": "Infinite Night",
+  "short_description": "testing",
+  "description": "testing",
+  "author": [
+    "fentoid"
+  ],
+  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/Fentanylreactor/CBN-INFPerks",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/Fentanylreactor/CBN-INFPerks/archive/refs/heads/main.zip",
+    "commit_sha": "9387fb98a69ec8933a47294a519956887458d7dc"
+  },
+  "categories": [
+    "content"
+  ],
+  "modinfo_url": "https://raw.githubusercontent.com/Fentanylreactor/CBN-INFPerks/9387fb98a69ec8933a47294a519956887458d7dc/modinfo.json",
+  "uses_lua": false,
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main"
+  },
+  "last_updated": "2026-05-16T09:25:15.929Z"
+}

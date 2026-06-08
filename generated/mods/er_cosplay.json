@@ -21,5 +21,8 @@
   "categories": [
     "graphics"
   ],
+  "icon_url": "https://raw.githubusercontent.com/cataclysmroguelikegallery/Cata-Rogall-Modpack/2b767bdb800949caa1207d8bb571e9c456ee6dc4/BN/ER_cosplay/icon.png",
+  "modinfo_url": "https://raw.githubusercontent.com/cataclysmroguelikegallery/Cata-Rogall-Modpack/2b767bdb800949caa1207d8bb571e9c456ee6dc4/BN/ER_cosplay/modinfo.json",
+  "uses_lua": false,
   "last_updated": "2026-02-25T03:34:46+09:00"
 }

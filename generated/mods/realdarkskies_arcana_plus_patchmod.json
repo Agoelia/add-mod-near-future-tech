@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "id": "realdarkskies_arcana_plus_patchmod",
+  "display_name": "Really Dark Skies plus Arcana's patchmods",
+  "short_description": "A patchmod for Really Dark Skies which adds increased support for Arcana, and its numerous patchmods",
+  "description": "A patchmod for Really Dark Skies which adds increased support for Arcana, and its numerous patchmods",
+  "author": [
+    "Zlorthishen"
+  ],
+  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Arcana_plus",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1",
+    "realdarkskies": "*",
+    "arcana_dinomod_patch": "*",
+    "arcana_cata++_patch": "*",
+    "arcana_crit_patch": "*",
+    "arcana_magiclalnights_patch": "*",
+    "arcana_aftershock_patch": "*"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+    "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+    "extract_path": "Patch_mods/RDS_plus_Arcana_plus"
+  },
+  "categories": [
+    "misc_additions"
+  ],
+  "modinfo_url": "https://raw.githubusercontent.com/Zlorthishen/Really_Dark_Skies/4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea/Patch_mods/RDS_plus_Arcana_plus/modinfo.json",
+  "uses_lua": false,
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main"
+  },
+  "parent": "realdarkskies",
+  "last_updated": "2026-05-16T09:24:59.311Z"
+}

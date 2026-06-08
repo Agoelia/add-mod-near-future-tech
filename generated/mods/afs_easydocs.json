@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "id": "afs_easydocs",
+  "display_name": "Aftershock - Easydocs",
+  "short_description": "Makes all Autodocs in Aftershock safe",
+  "description": "Makes all Autodocs in Aftershock safe",
+  "author": [
+    "Relgar"
+  ],
+  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/Relgar/AFS_Easydocs/tree/main/AFS_Easydocs",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1",
+    "aftershock": "*"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/Relgar/AFS_Easydocs/archive/refs/heads/main.zip",
+    "commit_sha": "922a8a19214466d05de7133070892ff3f90e5bc8",
+    "extract_path": "AFS_Easydocs"
+  },
+  "categories": [
+    "rebalance"
+  ],
+  "modinfo_url": "https://raw.githubusercontent.com/Relgar/AFS_Easydocs/922a8a19214466d05de7133070892ff3f90e5bc8/AFS_Easydocs/modinfo.json",
+  "uses_lua": false,
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main"
+  },
+  "last_updated": "2026-05-16T09:24:28.541Z"
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "id": "medieval_mod_reborn",
+  "display_name": "Medieval Mod Reborn",
+  "short_description": "The official replacement for and expansion of the Medieval and Historic Content mod, Bright Nights version.",
+  "description": "The official replacement for and expansion of the Medieval and Historic Content mod, Bright Nights version.",
+  "author": [
+    "Chaosvolt"
+  ],
+  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/chaosvolt/cdda_medieval_mod_reborn/tree/master/Medieval_Mod_Reborn_BN",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/chaosvolt/cdda_medieval_mod_reborn/archive/refs/heads/master.zip",
+    "commit_sha": "bc8a31d64dc5a19b7e45f67d8cbbf41cee315d8d",
+    "extract_path": "Medieval_Mod_Reborn_BN"
+  },
+  "categories": [
+    "items"
+  ],
+  "modinfo_url": "https://raw.githubusercontent.com/chaosvolt/cdda_medieval_mod_reborn/bc8a31d64dc5a19b7e45f67d8cbbf41cee315d8d/Medieval_Mod_Reborn_BN/modinfo.json",
+  "uses_lua": false,
+  "autoupdate": {
+    "type": "commit",
+    "branch": "master"
+  },
+  "last_updated": "2026-05-16T09:24:08.238Z"
+}

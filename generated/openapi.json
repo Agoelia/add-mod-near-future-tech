@@ -38,10 +38,16 @@
                       "schema_version": {
                         "const": "1.0"
                       },
+                      "package_type": {
+                        "enum": [
+                          "mod",
+                          "soundpack"
+                        ]
+                      },
                       "id": {
                         "type": "string",
                         "minLength": 1,
-                        "pattern": "^[a-z0-9][a-z0-9_-]*$"
+                        "pattern": "^(?=.*\\S)[^/\\\\?#]+$"
                       },
                       "display_name": {
                         "type": "string"
@@ -68,6 +74,18 @@
                       },
                       "version": {
                         "type": "string"
+                      },
+                      "yanked": {
+                        "type": "object",
+                        "properties": {
+                          "reason": {
+                            "type": "string",
+                            "minLength": 1
+                          }
+                        },
+                        "required": [
+                          "reason"
+                        ]
                       },
                       "dependencies": {
                         "type": "object",
@@ -125,6 +143,16 @@
                       "icon_url": {
                         "type": "string"
                       },
+                      "modinfo_url": {
+                        "type": "string",
+                        "format": "uri"
+                      },
+                      "uses_lua": {
+                        "type": "boolean"
+                      },
+                      "lua_api_version": {
+                        "type": "integer"
+                      },
                       "autoupdate": {
                         "type": "object",
                         "properties": {
@@ -151,7 +179,7 @@
                       "parent": {
                         "type": "string",
                         "minLength": 1,
-                        "pattern": "^[a-z0-9][a-z0-9_-]*$"
+                        "pattern": "^(?=.*\\S)[^/\\\\?#]+$"
                       },
                       "last_updated": {
                         "type": "string",
@@ -208,10 +236,16 @@
                     "schema_version": {
                       "const": "1.0"
                     },
+                    "package_type": {
+                      "enum": [
+                        "mod",
+                        "soundpack"
+                      ]
+                    },
                     "id": {
                       "type": "string",
                       "minLength": 1,
-                      "pattern": "^[a-z0-9][a-z0-9_-]*$"
+                      "pattern": "^(?=.*\\S)[^/\\\\?#]+$"
                     },
                     "display_name": {
                       "type": "string"
@@ -285,6 +319,18 @@
                         ]
                       }
                     },
+                    "yanked": {
+                      "type": "object",
+                      "properties": {
+                        "reason": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "reason"
+                      ]
+                    },
                     "dependencies": {
                       "type": "object",
                       "additionalProperties": {
@@ -341,6 +387,16 @@
                     "icon_url": {
                       "type": "string"
                     },
+                    "modinfo_url": {
+                      "type": "string",
+                      "format": "uri"
+                    },
+                    "uses_lua": {
+                      "type": "boolean"
+                    },
+                    "lua_api_version": {
+                      "type": "integer"
+                    },
                     "autoupdate": {
                       "type": "object",
                       "properties": {
@@ -367,7 +423,7 @@
                     "parent": {
                       "type": "string",
                       "minLength": 1,
-                      "pattern": "^[a-z0-9][a-z0-9_-]*$"
+                      "pattern": "^(?=.*\\S)[^/\\\\?#]+$"
                     },
                     "last_updated": {
                       "type": "string",
@@ -404,10 +460,16 @@
           "schema_version": {
             "const": "1.0"
           },
+          "package_type": {
+            "enum": [
+              "mod",
+              "soundpack"
+            ]
+          },
           "id": {
             "type": "string",
             "minLength": 1,
-            "pattern": "^[a-z0-9][a-z0-9_-]*$"
+            "pattern": "^(?=.*\\S)[^/\\\\?#]+$"
           },
           "display_name": {
             "type": "string"
@@ -481,6 +543,18 @@
               ]
             }
           },
+          "yanked": {
+            "type": "object",
+            "properties": {
+              "reason": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "reason"
+            ]
+          },
           "dependencies": {
             "type": "object",
             "additionalProperties": {
@@ -537,6 +611,16 @@
           "icon_url": {
             "type": "string"
           },
+          "modinfo_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "uses_lua": {
+            "type": "boolean"
+          },
+          "lua_api_version": {
+            "type": "integer"
+          },
           "autoupdate": {
             "type": "object",
             "properties": {
@@ -563,7 +647,7 @@
           "parent": {
             "type": "string",
             "minLength": 1,
-            "pattern": "^[a-z0-9][a-z0-9_-]*$"
+            "pattern": "^(?=.*\\S)[^/\\\\?#]+$"
           },
           "last_updated": {
             "type": "string",

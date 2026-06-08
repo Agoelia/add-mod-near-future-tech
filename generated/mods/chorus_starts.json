@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "id": "chorus_starts",
+  "display_name": "Chorus's Starts",
+  "short_description": "New starts, mostly based around characters I like from other series. Probably OP.",
+  "description": "New starts, mostly based around characters I like from other series. Probably OP.",
+  "author": [
+    "ChorusSystem"
+  ],
+  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Starts",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1",
+    "chorus_weapons": "*",
+    "chorus cbms": "*"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip",
+    "commit_sha": "77f71e190c6bb430da393eb06ee49f336221715e",
+    "extract_path": "Chorus Starts"
+  },
+  "categories": [
+    "content"
+  ],
+  "modinfo_url": "https://raw.githubusercontent.com/yay855/ChorusMod/77f71e190c6bb430da393eb06ee49f336221715e/Chorus%20Starts/modinfo.json",
+  "uses_lua": false,
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main"
+  },
+  "last_updated": "2026-05-16T09:24:48.906Z"
+}

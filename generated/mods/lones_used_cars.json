@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "id": "lones_used_cars",
+  "display_name": "Lones used cars",
+  "short_description": "A mod that adds new cars to BN!",
+  "description": "A mod that adds new cars to BN!",
+  "author": [
+    "thelonestander"
+  ],
+  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/thelonestander/Lones-Used-Cars",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip",
+    "commit_sha": "492b6c09f627b4cd40d48e453d519641786805d2"
+  },
+  "categories": [
+    "content"
+  ],
+  "modinfo_url": "https://raw.githubusercontent.com/thelonestander/Lones-Used-Cars/492b6c09f627b4cd40d48e453d519641786805d2/modinfo.json",
+  "uses_lua": false,
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main"
+  },
+  "last_updated": "2026-05-16T09:25:30.900Z"
+}

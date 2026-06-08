@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "id": "realdarkskies_thogs_vehicles_patchmod",
+  "display_name": "Really Dark Skies plus Thog's Vehicles",
+  "short_description": "A patchmod for Really Dark Skies which adds increased support for Thog's Vehicles mod",
+  "description": "A patchmod for Really Dark Skies which adds increased support for Thog's Vehicles mod",
+  "author": [
+    "Zlorthishen"
+  ],
+  "license": "ALL-RIGHTS-RESERVED",
+  "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_ThogVehicles",
+  "version": "0.0.0",
+  "dependencies": {
+    "bn": ">=0.9.1",
+    "realdarkskies": "*",
+    "thogs_vehicles": "*"
+  },
+  "source": {
+    "type": "github_archive",
+    "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+    "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+    "extract_path": "Patch_mods/RDS_plus_ThogVehicles"
+  },
+  "categories": [
+    "misc_additions"
+  ],
+  "modinfo_url": "https://raw.githubusercontent.com/Zlorthishen/Really_Dark_Skies/4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea/Patch_mods/RDS_plus_ThogVehicles/modinfo.json",
+  "uses_lua": false,
+  "autoupdate": {
+    "type": "commit",
+    "branch": "main"
+  },
+  "parent": "realdarkskies",
+  "last_updated": "2026-05-16T09:24:59.314Z"
+}
