@@ -8,7 +8,24 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Reviving_Xenoids
-version: 2026.6.8-4e6abff
+version: 2026.6.9-4e6abff
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_Reviving_Xenoids
+    released_at: "2026-05-16T09:24:59.309Z"
+  - version: 2026.6.8-4e6abff
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_Reviving_Xenoids
+    released_at: "2026-06-08T03:02:50.888Z"
 dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
@@ -26,13 +43,4 @@ autoupdate:
   type: commit
   branch: main
 parent: realdarkskies
-last_updated: "2026-06-08T03:02:50.888Z"
-previous_releases:
-  - version: 0.0.0
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
-      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
-      extract_path: Patch_mods/RDS_Reviving_Xenoids
-    released_at: "2026-05-16T09:24:59.309Z"
+last_updated: "2026-06-09T02:39:41.851Z"

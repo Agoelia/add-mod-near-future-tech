@@ -7,7 +7,24 @@ author:
   - Some Dumbass
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/RV Man"
-version: 2026.6.8-be2f1f9
+version: 2026.6.9-be2f1f9
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip
+      commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
+      extract_path: RV Man
+    released_at: "2026-05-16T09:25:07.174Z"
+  - version: 2026.6.8-be2f1f9
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip
+      commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
+      extract_path: RV Man
+    released_at: "2026-06-08T03:02:25.090Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -23,13 +40,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-08T03:02:25.090Z"
-previous_releases:
-  - version: 0.0.0
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip
-      commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
-      extract_path: RV Man
-    released_at: "2026-05-16T09:25:07.174Z"
+last_updated: "2026-06-09T02:39:13.625Z"

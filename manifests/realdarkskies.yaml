@@ -9,7 +9,24 @@ author:
   - Zlorthishen
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Really_Dark_Skies"
-version: 2026.6.8-4e6abff
+version: 2026.6.9-4e6abff
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Really_Dark_Skies
+    released_at: "2026-05-16T09:25:54.228Z"
+  - version: 2026.6.8-4e6abff
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Really_Dark_Skies
+    released_at: "2026-06-08T03:02:38.224Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -26,13 +43,4 @@ lua_api_version: 2
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-08T03:02:38.224Z"
-previous_releases:
-  - version: 0.0.0
-    source:
-      type: github_archive
-      url: >-
-        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
-      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
-      extract_path: Really_Dark_Skies
-    released_at: "2026-05-16T09:25:54.228Z"
+last_updated: "2026-06-09T02:39:27.591Z"

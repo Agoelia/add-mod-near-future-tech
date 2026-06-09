@@ -7,7 +7,20 @@ author:
   - Alec White
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/AlecWhite/Lolita_Fashion"
-version: 2026.6.8-933eab0
+version: 2026.6.9-933eab0
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip"
+      commit_sha: 933eab00c9d546d5d63a94929a9d2fdc70602d04
+    released_at: "2026-05-16T09:25:17.375Z"
+  - version: 2026.6.8-933eab0
+    source:
+      type: github_archive
+      url: "https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip"
+      commit_sha: 933eab00c9d546d5d63a94929a9d2fdc70602d04
+    released_at: "2026-06-08T03:02:42.734Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -23,11 +36,4 @@ lua_api_version: 1
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-08T03:02:42.734Z"
-previous_releases:
-  - version: 0.0.0
-    source:
-      type: github_archive
-      url: "https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip"
-      commit_sha: 933eab00c9d546d5d63a94929a9d2fdc70602d04
-    released_at: "2026-05-16T09:25:17.375Z"
+last_updated: "2026-06-09T02:39:32.831Z"

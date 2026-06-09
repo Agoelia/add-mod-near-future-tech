@@ -7,7 +7,22 @@ author:
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/ChorusMod/tree/main/Chorus Arcana Addon"
-version: 2026.6.8-77f71e1
+version: 2026.6.9-77f71e1
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+      commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
+      extract_path: Chorus Arcana Addon
+    released_at: "2026-05-16T09:24:48.905Z"
+  - version: 2026.6.8-77f71e1
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+      commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
+      extract_path: Chorus Arcana Addon
+    released_at: "2026-06-08T03:02:50.024Z"
 dependencies:
   bn: ">=0.9.1"
   arcana: "*"
@@ -24,12 +39,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-08T03:02:50.024Z"
-previous_releases:
-  - version: 0.0.0
-    source:
-      type: github_archive
-      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
-      commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
-      extract_path: Chorus Arcana Addon
-    released_at: "2026-05-16T09:24:48.905Z"
+last_updated: "2026-06-09T02:39:40.801Z"

@@ -31,7 +31,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -65,7 +65,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -99,7 +99,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -133,7 +133,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -167,7 +167,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -199,7 +199,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -212,7 +212,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Relgar/AFS_Easydocs/tree/main/AFS_Easydocs",
-    "version": "2026.6.8-922a8a1",
+    "version": "2026.6.9-922a8a1",
     "dependencies": {
       "bn": ">=0.9.1",
       "aftershock": "*"
@@ -232,7 +232,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:24.253Z"
+    "last_updated": "2026-06-09T02:39:12.946Z"
   },
   {
     "schema_version": "1.0",
@@ -266,7 +266,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -300,7 +300,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -334,7 +334,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -368,7 +368,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -380,7 +380,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Arcana_BN",
-    "version": "2026.6.8-33bfbbe",
+    "version": "2026.6.9-33bfbbe",
     "yanked": {
       "reason": "Mainlined in Cataclysm: Bright Nights."
     },
@@ -402,7 +402,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T03:03:04.946Z"
+    "last_updated": "2026-06-09T02:39:56.352Z"
   },
   {
     "schema_version": "1.0",
@@ -414,7 +414,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_Aftershock_Patch",
-    "version": "2026.6.8-33bfbbe",
+    "version": "2026.6.9-33bfbbe",
     "yanked": {
       "reason": "Mainlined in Cataclysm: Bright Nights."
     },
@@ -439,7 +439,7 @@
       "branch": "master"
     },
     "parent": "arcana",
-    "last_updated": "2026-06-08T03:03:05.103Z"
+    "last_updated": "2026-06-09T02:39:56.567Z"
   },
   {
     "schema_version": "1.0",
@@ -451,7 +451,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_Crit_Patch",
-    "version": "2026.6.8-33bfbbe",
+    "version": "2026.6.9-33bfbbe",
     "yanked": {
       "reason": "Mainlined in Cataclysm: Bright Nights."
     },
@@ -476,7 +476,7 @@
       "branch": "master"
     },
     "parent": "arcana",
-    "last_updated": "2026-06-08T03:02:40.847Z"
+    "last_updated": "2026-06-09T02:39:30.554Z"
   },
   {
     "schema_version": "1.0",
@@ -489,7 +489,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/Patchmods/BN_Arcana_Cata++_Patch",
-    "version": "2026.6.8-94b18c2",
+    "version": "2026.6.9-81d5d98",
     "dependencies": {
       "bn": ">=0.9.1",
       "arcana": "*",
@@ -498,7 +498,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip",
-      "commit_sha": "94b18c22b5770c1ab79034c16bceb722dbeeaac1",
+      "commit_sha": "81d5d98f1cf97f2a442343914a2c7a35655ffee6",
       "extract_path": "Patchmods/BN_Arcana_Cata++_Patch"
     },
     "categories": [
@@ -511,7 +511,7 @@
       "branch": "master"
     },
     "parent": "arcana",
-    "last_updated": "2026-06-08T03:02:51.785Z"
+    "last_updated": "2026-06-09T02:39:42.778Z"
   },
   {
     "schema_version": "1.0",
@@ -523,7 +523,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_Dinomod_Patch",
-    "version": "2026.6.8-33bfbbe",
+    "version": "2026.6.9-33bfbbe",
     "yanked": {
       "reason": "Mainlined in Cataclysm: Bright Nights."
     },
@@ -548,7 +548,7 @@
       "branch": "master"
     },
     "parent": "arcana",
-    "last_updated": "2026-06-08T03:02:20.998Z"
+    "last_updated": "2026-06-09T02:39:09.364Z"
   },
   {
     "schema_version": "1.0",
@@ -560,7 +560,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_MagicalNights_Patch",
-    "version": "2026.6.8-33bfbbe",
+    "version": "2026.6.9-33bfbbe",
     "yanked": {
       "reason": "Mainlined in Cataclysm: Bright Nights."
     },
@@ -585,7 +585,7 @@
       "branch": "master"
     },
     "parent": "arcana",
-    "last_updated": "2026-06-08T03:02:52.662Z"
+    "last_updated": "2026-06-09T02:39:43.583Z"
   },
   {
     "schema_version": "1.0",
@@ -620,7 +620,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -651,7 +651,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -685,7 +685,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -723,7 +723,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -762,7 +762,7 @@
       "branch": "master"
     },
     "parent": "bl9_100monres",
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -801,7 +801,7 @@
       "branch": "master"
     },
     "parent": "bl9_100monres",
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -814,7 +814,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yct1998/BN_Talk_AI",
-    "version": "2026.6.8-8e8255f",
+    "version": "2026.6.9-8e8255f",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -833,7 +833,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:36.815Z"
+    "last_updated": "2026-06-09T02:39:25.962Z"
   },
   {
     "schema_version": "1.0",
@@ -867,7 +867,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -901,7 +901,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -935,7 +935,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -969,7 +969,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1003,7 +1003,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1037,7 +1037,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1050,7 +1050,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/shmakota/birdbox_mod_bn/tree/main/birdbox",
-    "version": "2026.6.8-b3ac37c",
+    "version": "2026.6.9-b3ac37c",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1070,7 +1070,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:02.382Z"
+    "last_updated": "2026-06-09T02:39:53.844Z"
   },
   {
     "schema_version": "1.0",
@@ -1104,7 +1104,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1117,7 +1117,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/SzQ1/blazemod-SzQ-edit",
-    "version": "2026.6.8-b4b8ded",
+    "version": "2026.6.9-b4b8ded",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1135,7 +1135,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:01.360Z"
+    "last_updated": "2026-06-09T02:39:52.709Z"
   },
   {
     "schema_version": "1.0",
@@ -1148,7 +1148,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Bobs Professions",
-    "version": "2026.6.8-be2f1f9",
+    "version": "2026.6.9-be2f1f9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1167,7 +1167,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:04.873Z"
+    "last_updated": "2026-06-09T02:39:56.247Z"
   },
   {
     "schema_version": "1.0",
@@ -1180,7 +1180,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/shmakota/bodily_fluids_mod_bn/tree/main/bodily_fluids",
-    "version": "2026.6.8-3a14970",
+    "version": "2026.6.9-3a14970",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1200,7 +1200,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:58.165Z"
+    "last_updated": "2026-06-09T02:39:49.563Z"
   },
   {
     "schema_version": "1.0",
@@ -1235,7 +1235,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1269,7 +1269,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1303,7 +1303,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1365,7 +1365,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1396,7 +1396,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1430,7 +1430,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1464,7 +1464,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1476,7 +1476,7 @@
     ],
     "license": "CC-BY-SA-3.0",
     "homepage": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/Patchmods/BN_Cata++_ExoticAmmo_Patch",
-    "version": "2026.6.8-94b18c2",
+    "version": "2026.6.9-81d5d98",
     "dependencies": {
       "bn": ">=0.9.1",
       "cata++": "*",
@@ -1485,7 +1485,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip",
-      "commit_sha": "94b18c22b5770c1ab79034c16bceb722dbeeaac1",
+      "commit_sha": "81d5d98f1cf97f2a442343914a2c7a35655ffee6",
       "extract_path": "Patchmods/BN_Cata++_ExoticAmmo_Patch"
     },
     "categories": [
@@ -1498,7 +1498,7 @@
       "branch": "master"
     },
     "parent": "cata",
-    "last_updated": "2026-06-08T03:02:19.109Z"
+    "last_updated": "2026-06-09T02:39:07.411Z"
   },
   {
     "schema_version": "1.0",
@@ -1511,14 +1511,14 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/nocts_cata_mod_BN",
-    "version": "2026.6.8-94b18c2",
+    "version": "2026.6.9-81d5d98",
     "dependencies": {
       "bn": ">=0.9.1"
     },
     "source": {
       "type": "github_archive",
       "url": "https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip",
-      "commit_sha": "94b18c22b5770c1ab79034c16bceb722dbeeaac1",
+      "commit_sha": "81d5d98f1cf97f2a442343914a2c7a35655ffee6",
       "extract_path": "nocts_cata_mod_BN"
     },
     "categories": [
@@ -1530,7 +1530,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T03:03:01.978Z"
+    "last_updated": "2026-06-09T02:39:53.408Z"
   },
   {
     "schema_version": "1.0",
@@ -1543,7 +1543,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Arcana Addon",
-    "version": "2026.6.8-77f71e1",
+    "version": "2026.6.9-77f71e1",
     "dependencies": {
       "bn": ">=0.9.1",
       "arcana": "*"
@@ -1563,7 +1563,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:50.024Z"
+    "last_updated": "2026-06-09T02:39:40.801Z"
   },
   {
     "schema_version": "1.0",
@@ -1576,7 +1576,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus CBMs",
-    "version": "2026.6.8-77f71e1",
+    "version": "2026.6.9-77f71e1",
     "dependencies": {
       "bn": ">=0.9.1",
       "chorus_weapons": "*"
@@ -1596,7 +1596,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:49.910Z"
+    "last_updated": "2026-06-09T02:39:40.695Z"
   },
   {
     "schema_version": "1.0",
@@ -1609,7 +1609,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Gear",
-    "version": "2026.6.8-77f71e1",
+    "version": "2026.6.9-77f71e1",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1628,7 +1628,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:59.829Z"
+    "last_updated": "2026-06-09T02:39:51.274Z"
   },
   {
     "schema_version": "1.0",
@@ -1641,7 +1641,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Martial Arts",
-    "version": "2026.6.8-77f71e1",
+    "version": "2026.6.9-77f71e1",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1660,7 +1660,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:56.059Z"
+    "last_updated": "2026-06-09T02:39:47.307Z"
   },
   {
     "schema_version": "1.0",
@@ -1674,7 +1674,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Primitive",
-    "version": "2026.6.8-77f71e1",
+    "version": "2026.6.9-77f71e1",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1693,7 +1693,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:20.244Z"
+    "last_updated": "2026-06-09T02:39:08.688Z"
   },
   {
     "schema_version": "1.0",
@@ -1706,7 +1706,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Starts",
-    "version": "2026.6.8-77f71e1",
+    "version": "2026.6.9-77f71e1",
     "dependencies": {
       "bn": ">=0.9.1",
       "chorus_weapons": "*",
@@ -1727,7 +1727,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:41.262Z"
+    "last_updated": "2026-06-09T02:39:31.083Z"
   },
   {
     "schema_version": "1.0",
@@ -1761,7 +1761,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1791,7 +1791,7 @@
     "autoupdate": {
       "type": "tag"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1825,7 +1825,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1838,7 +1838,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Gallant-Char-25/CataclysmBN_Craftable_Casings_Mod",
-    "version": "2026.6.8-bf804b2",
+    "version": "2026.6.9-bf804b2",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -1856,7 +1856,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:00.171Z"
+    "last_updated": "2026-06-09T02:39:51.638Z"
   },
   {
     "schema_version": "1.0",
@@ -1890,7 +1890,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1924,7 +1924,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1958,7 +1958,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -1993,7 +1993,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2028,7 +2028,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2062,7 +2062,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2096,7 +2096,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2158,7 +2158,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2192,7 +2192,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2226,7 +2226,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2260,7 +2260,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2273,7 +2273,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Tefnut/Fallout-New-England-Remastered/tree/main/FNE-Remastered",
-    "version": "2026.6.8-4f7b45b",
+    "version": "2026.6.9-4f7b45b",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2292,7 +2292,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:56.469Z"
+    "last_updated": "2026-06-09T02:39:47.755Z"
   },
   {
     "schema_version": "1.0",
@@ -2307,7 +2307,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/WarriorKingBob/Fallout_BrightNights",
-    "version": "2026.6.8-43ef769",
+    "version": "2026.6.9-43ef769",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2325,7 +2325,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:21.769Z"
+    "last_updated": "2026-06-09T02:39:10.211Z"
   },
   {
     "schema_version": "1.0",
@@ -2359,7 +2359,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2372,7 +2372,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Baratan-creates/BN-FinalFantasyMod/tree/main/FinalFantasyMod",
-    "version": "2026.6.8-b206c3f",
+    "version": "2026.6.9-b206c3f",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2391,7 +2391,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:35.746Z"
+    "last_updated": "2026-06-09T02:39:24.871Z"
   },
   {
     "schema_version": "1.0",
@@ -2404,7 +2404,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/shmakota/Material-Plants/tree/master/Fluid Cows",
-    "version": "2026.6.8-3093665",
+    "version": "2026.6.9-3093665",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2423,7 +2423,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T03:02:35.328Z"
+    "last_updated": "2026-06-09T02:39:24.499Z"
   },
   {
     "schema_version": "1.0",
@@ -2458,7 +2458,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2492,7 +2492,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2505,7 +2505,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/ihatenumbers/BN_Gawr_Gura",
-    "version": "2026.6.8-50c6627",
+    "version": "2026.6.9-50c6627",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2524,7 +2524,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:55.576Z"
+    "last_updated": "2026-06-09T02:39:46.846Z"
   },
   {
     "schema_version": "1.0",
@@ -2558,7 +2558,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2592,7 +2592,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2623,7 +2623,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2636,7 +2636,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/hamatk/CataclysmBN_Mod_MachineBow/tree/main/gun_bow",
-    "version": "2026.6.8-a7ad0a6",
+    "version": "2026.6.9-a7ad0a6",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2655,7 +2655,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:03.056Z"
+    "last_updated": "2026-06-09T02:39:54.527Z"
   },
   {
     "schema_version": "1.0",
@@ -2689,7 +2689,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2723,7 +2723,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2757,7 +2757,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2771,7 +2771,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yay855/Hope-in-the-Dark/tree/main/Hope-in-the-dark",
-    "version": "2026.6.8-0175d79",
+    "version": "2026.6.9-0175d79",
     "dependencies": {
       "magicalnights": "*"
     },
@@ -2790,7 +2790,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:54.710Z"
+    "last_updated": "2026-06-09T02:39:46.073Z"
   },
   {
     "schema_version": "1.0",
@@ -2824,7 +2824,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2859,7 +2859,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -2872,7 +2872,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Fentanylreactor/CBN-INFPerks",
-    "version": "2026.6.8-9387fb9",
+    "version": "2026.6.9-9387fb9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2890,7 +2890,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:45.427Z"
+    "last_updated": "2026-06-09T02:39:35.733Z"
   },
   {
     "schema_version": "1.0",
@@ -2903,7 +2903,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/jackledead/jackledead_armory/tree/main/modsBrightNights/jackledead_armory",
-    "version": "2026.6.8-7262ba9",
+    "version": "2026.6.9-7262ba9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -2922,7 +2922,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:22.629Z"
+    "last_updated": "2026-06-09T02:39:11.227Z"
   },
   {
     "schema_version": "1.0",
@@ -2935,7 +2935,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/jackledead/jackledead_armory/tree/main/modsBrightNights/jackledead_armory_expansion",
-    "version": "2026.6.8-7262ba9",
+    "version": "2026.6.9-7262ba9",
     "dependencies": {
       "bn": ">=0.9.1",
       "jackledead_armory": "*"
@@ -2956,7 +2956,7 @@
       "branch": "main"
     },
     "parent": "jackledead_armory",
-    "last_updated": "2026-06-08T03:02:52.855Z"
+    "last_updated": "2026-06-09T02:39:43.800Z"
   },
   {
     "schema_version": "1.0",
@@ -2990,7 +2990,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3024,7 +3024,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3058,7 +3058,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3092,7 +3092,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3105,7 +3105,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/AlecWhite/Lolita_Fashion",
-    "version": "2026.6.8-933eab0",
+    "version": "2026.6.9-933eab0",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3124,7 +3124,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:42.734Z"
+    "last_updated": "2026-06-09T02:39:32.831Z"
   },
   {
     "schema_version": "1.0",
@@ -3137,7 +3137,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thelonestander/Lones-atomic-additions/tree/main/Lones Atomic additions",
-    "version": "2026.6.8-ce03e21",
+    "version": "2026.6.9-ce03e21",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3156,7 +3156,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:43.346Z"
+    "last_updated": "2026-06-09T02:39:33.369Z"
   },
   {
     "schema_version": "1.0",
@@ -3169,7 +3169,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thelonestander/Lones-Augmented-Arsenal",
-    "version": "2026.6.8-2f56566",
+    "version": "2026.6.9-5da1285",
     "dependencies": {
       "bn": ">=0.9.1",
       "aftershock": "*",
@@ -3178,7 +3178,7 @@
     "source": {
       "type": "github_archive",
       "url": "https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip",
-      "commit_sha": "2f56566c26c13fcf5f80b69f2dede100f2fd4da2"
+      "commit_sha": "5da128593ef052bf8679061848b197c6b3fca24a"
     },
     "categories": [
       "content"
@@ -3189,7 +3189,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:32.796Z"
+    "last_updated": "2026-06-09T02:39:21.803Z"
   },
   {
     "schema_version": "1.0",
@@ -3202,7 +3202,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thelonestander/Lones-atomic-additions/tree/main/Cata++ patch mod",
-    "version": "2026.6.8-ce03e21",
+    "version": "2026.6.9-ce03e21",
     "dependencies": {
       "bn": ">=0.9.1",
       "cata++": "*"
@@ -3222,7 +3222,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:48.524Z"
+    "last_updated": "2026-06-09T02:39:39.182Z"
   },
   {
     "schema_version": "1.0",
@@ -3235,7 +3235,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thelonestander/Lones-soda-mod",
-    "version": "2026.6.8-398cef4",
+    "version": "2026.6.9-398cef4",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3253,7 +3253,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:51.478Z"
+    "last_updated": "2026-06-09T02:39:42.529Z"
   },
   {
     "schema_version": "1.0",
@@ -3266,7 +3266,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thelonestander/Lones-Used-Cars",
-    "version": "2026.6.8-7606d28",
+    "version": "2026.6.9-7606d28",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3284,7 +3284,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:27.180Z"
+    "last_updated": "2026-06-09T02:39:15.833Z"
   },
   {
     "schema_version": "1.0",
@@ -3318,7 +3318,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3331,7 +3331,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/bingosta/Moretations---More-unbalanced-mutations",
-    "version": "2026.6.8-069acb8",
+    "version": "2026.6.9-069acb8",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3349,7 +3349,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:58.989Z"
+    "last_updated": "2026-06-09T02:39:50.384Z"
   },
   {
     "schema_version": "1.0",
@@ -3362,7 +3362,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/chaosvolt/MST_Extra_Mod/tree/master/MST_Extra_BN",
-    "version": "2026.6.8-fe8a385",
+    "version": "2026.6.9-fe8a385",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3381,7 +3381,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T03:02:31.211Z"
+    "last_updated": "2026-06-09T02:39:20.330Z"
   },
   {
     "schema_version": "1.0",
@@ -3415,7 +3415,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3449,7 +3449,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3483,7 +3483,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3497,7 +3497,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/shmakota/Material-Plants/tree/master/Material Plants",
-    "version": "2026.6.8-3093665",
+    "version": "2026.6.9-3093665",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3516,7 +3516,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T03:02:34.293Z"
+    "last_updated": "2026-06-09T02:39:23.363Z"
   },
   {
     "schema_version": "1.0",
@@ -3529,7 +3529,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/chaosvolt/cdda_medieval_mod_reborn/tree/master/Medieval_Mod_Reborn_BN",
-    "version": "2026.6.8-bc8a31d",
+    "version": "2026.6.9-bc8a31d",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3548,7 +3548,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T03:02:49.348Z"
+    "last_updated": "2026-06-09T02:39:40.142Z"
   },
   {
     "schema_version": "1.0",
@@ -3582,7 +3582,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3616,7 +3616,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3651,7 +3651,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3685,7 +3685,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3719,7 +3719,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3732,7 +3732,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/SzQ1/More-Bandits",
-    "version": "2026.6.8-c36d4d8",
+    "version": "2026.6.9-c36d4d8",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3750,7 +3750,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:39.220Z"
+    "last_updated": "2026-06-09T02:39:28.690Z"
   },
   {
     "schema_version": "1.0",
@@ -3763,7 +3763,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/SzQ1/More-Dangerous-Encounters",
-    "version": "2026.6.8-e1f7cd2",
+    "version": "2026.6.9-e1f7cd2",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3781,7 +3781,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:32.096Z"
+    "last_updated": "2026-06-09T02:39:21.153Z"
   },
   {
     "schema_version": "1.0",
@@ -3815,7 +3815,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3849,7 +3849,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3883,7 +3883,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3917,7 +3917,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3951,7 +3951,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -3964,7 +3964,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/goldendragon900/cdda-bn-mountain-dew/tree/main/Mountain_dew",
-    "version": "2026.6.8-90d7109",
+    "version": "2026.6.9-90d7109",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -3983,7 +3983,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:42.003Z"
+    "last_updated": "2026-06-09T02:39:32.018Z"
   },
   {
     "schema_version": "1.0",
@@ -4017,7 +4017,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4051,7 +4051,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4085,7 +4085,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4119,7 +4119,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4152,7 +4152,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4186,7 +4186,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4223,7 +4223,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4257,7 +4257,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4291,7 +4291,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4325,7 +4325,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4359,7 +4359,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4393,7 +4393,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4427,7 +4427,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4458,7 +4458,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4471,7 +4471,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Relgar/CBN-No-Addictions/tree/main/No_Addictions",
-    "version": "2026.6.8-70eec83",
+    "version": "2026.6.9-70eec83",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -4490,7 +4490,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:28.461Z"
+    "last_updated": "2026-06-09T02:39:17.050Z"
   },
   {
     "schema_version": "1.0",
@@ -4504,7 +4504,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod",
-    "version": "2026.6.8-13dfa70",
+    "version": "2026.6.9-13dfa70",
     "dependencies": {
       "bn": ">=0.9.1",
       "gov_bandits": "*"
@@ -4523,7 +4523,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:46.661Z"
+    "last_updated": "2026-06-09T02:39:37.109Z"
   },
   {
     "schema_version": "1.0",
@@ -4557,7 +4557,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4570,7 +4570,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/OpsCoretango/Nuclear_Power_Plant_BN/tree/main/Nuclear_Power_Plant",
-    "version": "2026.6.8-8ad9d49",
+    "version": "2026.6.9-8ad9d49",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -4589,7 +4589,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:27.809Z"
+    "last_updated": "2026-06-09T02:39:16.445Z"
   },
   {
     "schema_version": "1.0",
@@ -4623,7 +4623,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4657,7 +4657,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4696,7 +4696,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Militia Rifleman",
-    "version": "2026.6.8-be2f1f9",
+    "version": "2026.6.9-be2f1f9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -4715,7 +4715,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:41.190Z"
+    "last_updated": "2026-06-09T02:39:30.978Z"
   },
   {
     "schema_version": "1.0",
@@ -4728,7 +4728,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Prepper",
-    "version": "2026.6.8-be2f1f9",
+    "version": "2026.6.9-be2f1f9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -4747,7 +4747,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:40.619Z"
+    "last_updated": "2026-06-09T02:39:30.342Z"
   },
   {
     "schema_version": "1.0",
@@ -4760,7 +4760,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/RV Man",
-    "version": "2026.6.8-be2f1f9",
+    "version": "2026.6.9-be2f1f9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -4779,7 +4779,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:25.090Z"
+    "last_updated": "2026-06-09T02:39:13.625Z"
   },
   {
     "schema_version": "1.0",
@@ -4792,7 +4792,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Survivor With A Gun",
-    "version": "2026.6.8-be2f1f9",
+    "version": "2026.6.9-be2f1f9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -4811,7 +4811,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:37.332Z"
+    "last_updated": "2026-06-09T02:39:26.548Z"
   },
   {
     "schema_version": "1.0",
@@ -4846,7 +4846,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4877,7 +4877,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4912,7 +4912,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4946,7 +4946,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -4977,7 +4977,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -5012,7 +5012,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -5046,7 +5046,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -5058,7 +5058,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Really_Dark_Skies",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -5078,7 +5078,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:38.224Z"
+    "last_updated": "2026-06-09T02:39:27.591Z"
   },
   {
     "schema_version": "1.0",
@@ -5091,7 +5091,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Robots_Reprogrammed",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5112,7 +5112,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:31.607Z"
+    "last_updated": "2026-06-09T02:39:20.665Z"
   },
   {
     "schema_version": "1.0",
@@ -5125,7 +5125,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Faction_Warfare",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5146,7 +5146,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:31.505Z"
+    "last_updated": "2026-06-09T02:39:20.560Z"
   },
   {
     "schema_version": "1.0",
@@ -5159,7 +5159,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Repair_Xeno-Tech",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5180,7 +5180,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:33.203Z"
+    "last_updated": "2026-06-09T02:39:22.245Z"
   },
   {
     "schema_version": "1.0",
@@ -5193,7 +5193,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Faction_balance",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5214,7 +5214,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:30.785Z"
+    "last_updated": "2026-06-09T02:39:19.840Z"
   },
   {
     "schema_version": "1.0",
@@ -5227,7 +5227,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_AdvancedTech",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5249,7 +5249,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:23.934Z"
+    "last_updated": "2026-06-09T02:39:12.587Z"
   },
   {
     "schema_version": "1.0",
@@ -5262,7 +5262,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Arcana",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5284,7 +5284,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:45.828Z"
+    "last_updated": "2026-06-09T02:39:36.101Z"
   },
   {
     "schema_version": "1.0",
@@ -5297,7 +5297,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Arcana_plus",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5323,7 +5323,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:48.692Z"
+    "last_updated": "2026-06-09T02:39:39.392Z"
   },
   {
     "schema_version": "1.0",
@@ -5336,7 +5336,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Biosynthetic_Robot",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5358,7 +5358,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:42.321Z"
+    "last_updated": "2026-06-09T02:39:32.279Z"
   },
   {
     "schema_version": "1.0",
@@ -5371,7 +5371,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_CRIT",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5393,7 +5393,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:03:05.799Z"
+    "last_updated": "2026-06-09T02:39:57.412Z"
   },
   {
     "schema_version": "1.0",
@@ -5406,7 +5406,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Cata",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5428,7 +5428,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:03:03.439Z"
+    "last_updated": "2026-06-09T02:39:54.868Z"
   },
   {
     "schema_version": "1.0",
@@ -5441,7 +5441,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Dino",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5463,7 +5463,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:23.297Z"
+    "last_updated": "2026-06-09T02:39:11.883Z"
   },
   {
     "schema_version": "1.0",
@@ -5476,7 +5476,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_MagicalNight",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5498,7 +5498,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:23.605Z"
+    "last_updated": "2026-06-09T02:39:12.167Z"
   },
   {
     "schema_version": "1.0",
@@ -5511,7 +5511,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Morlocks",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5533,7 +5533,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:24.597Z"
+    "last_updated": "2026-06-09T02:39:13.218Z"
   },
   {
     "schema_version": "1.0",
@@ -5546,7 +5546,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_NoHope",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5568,7 +5568,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:03:06.943Z"
+    "last_updated": "2026-06-09T02:39:58.732Z"
   },
   {
     "schema_version": "1.0",
@@ -5581,7 +5581,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Secronom",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5604,7 +5604,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:40.439Z"
+    "last_updated": "2026-06-09T02:39:30.127Z"
   },
   {
     "schema_version": "1.0",
@@ -5617,7 +5617,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_ThogVehicles",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*",
@@ -5639,7 +5639,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:49.683Z"
+    "last_updated": "2026-06-09T02:39:40.376Z"
   },
   {
     "schema_version": "1.0",
@@ -5652,7 +5652,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_More_Strays",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5673,7 +5673,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:34.701Z"
+    "last_updated": "2026-06-09T02:39:23.761Z"
   },
   {
     "schema_version": "1.0",
@@ -5686,7 +5686,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Reviving_Xenoids",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5707,7 +5707,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:50.888Z"
+    "last_updated": "2026-06-09T02:39:41.851Z"
   },
   {
     "schema_version": "1.0",
@@ -5720,7 +5720,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_No_Reviving_Strays",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5741,7 +5741,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:02:28.932Z"
+    "last_updated": "2026-06-09T02:39:17.536Z"
   },
   {
     "schema_version": "1.0",
@@ -5754,7 +5754,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_No_Strays",
-    "version": "2026.6.8-4e6abff",
+    "version": "2026.6.9-4e6abff",
     "dependencies": {
       "bn": ">=0.9.1",
       "realdarkskies": "*"
@@ -5775,7 +5775,7 @@
       "branch": "main"
     },
     "parent": "realdarkskies",
-    "last_updated": "2026-06-08T03:03:06.547Z"
+    "last_updated": "2026-06-09T02:39:58.204Z"
   },
   {
     "schema_version": "1.0",
@@ -5809,7 +5809,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -5823,7 +5823,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/yowshi/BlobExpansion",
-    "version": "2026.6.8-77b6ae9",
+    "version": "2026.6.9-77b6ae9",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -5841,7 +5841,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T03:02:47.335Z"
+    "last_updated": "2026-06-09T02:39:37.797Z"
   },
   {
     "schema_version": "1.0",
@@ -5875,7 +5875,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -5909,7 +5909,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -5944,7 +5944,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -5979,7 +5979,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6013,7 +6013,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6026,7 +6026,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/AlecWhite/Metal_Scrap_Walls",
-    "version": "2026.6.8-b383940",
+    "version": "2026.6.9-b383940",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -6044,7 +6044,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:38.552Z"
+    "last_updated": "2026-06-09T02:39:27.980Z"
   },
   {
     "schema_version": "1.0",
@@ -6078,7 +6078,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6113,7 +6113,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6147,7 +6147,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6181,7 +6181,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6245,7 +6245,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6258,7 +6258,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Lamandus/Stackgeneric/tree/main/mods/Drystack",
-    "version": "2026.6.8-cdc630f",
+    "version": "2026.6.9-cdc630f",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -6277,7 +6277,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:52.309Z"
+    "last_updated": "2026-06-09T02:39:43.336Z"
   },
   {
     "schema_version": "1.0",
@@ -6311,7 +6311,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6324,7 +6324,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/Sudo_Requiem",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -6343,7 +6343,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:47.771Z"
+    "last_updated": "2026-06-09T02:39:38.270Z"
   },
   {
     "schema_version": "1.0",
@@ -6377,7 +6377,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6411,7 +6411,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6424,7 +6424,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/SzQ1/SzQmod",
-    "version": "2026.6.8-47f0f33",
+    "version": "2026.6.9-47f0f33",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -6442,7 +6442,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:37.779Z"
+    "last_updated": "2026-06-09T02:39:27.095Z"
   },
   {
     "schema_version": "1.0",
@@ -6476,7 +6476,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6511,7 +6511,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6545,7 +6545,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6579,7 +6579,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6615,7 +6615,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6649,7 +6649,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6683,7 +6683,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6717,7 +6717,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6751,7 +6751,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6785,7 +6785,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6819,7 +6819,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6856,7 +6856,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6891,7 +6891,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6904,7 +6904,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/SzQ1/Visible-car-roofs",
-    "version": "2026.6.8-5e66a72",
+    "version": "2026.6.9-5e66a72",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -6922,7 +6922,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:30.318Z"
+    "last_updated": "2026-06-09T02:39:19.372Z"
   },
   {
     "schema_version": "1.0",
@@ -6956,7 +6956,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -6969,7 +6969,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/kingcet/WH40K-Imperial-Armoury/tree/main/WH_40K_Imperial_Armoury",
-    "version": "2026.6.8-f863f21",
+    "version": "2026.6.9-f863f21",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -6988,7 +6988,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:25.640Z"
+    "last_updated": "2026-06-09T02:39:14.166Z"
   },
   {
     "schema_version": "1.0",
@@ -7022,7 +7022,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7056,7 +7056,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7090,7 +7090,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7124,7 +7124,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7159,7 +7159,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7193,7 +7193,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7229,7 +7229,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7263,7 +7263,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -7276,7 +7276,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7298,7 +7298,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:48.437Z"
+    "last_updated": "2026-06-09T02:39:39.076Z"
   },
   {
     "schema_version": "1.0",
@@ -7311,7 +7311,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_aaa NO blacklist",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7333,7 +7333,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:40.184Z"
+    "last_updated": "2026-06-09T02:39:29.801Z"
   },
   {
     "schema_version": "1.0",
@@ -7346,7 +7346,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Advanced_Technologies",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7368,7 +7368,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:51.074Z"
+    "last_updated": "2026-06-09T02:39:42.069Z"
   },
   {
     "schema_version": "1.0",
@@ -7381,7 +7381,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_Aftershock",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7403,7 +7403,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:41.345Z"
+    "last_updated": "2026-06-09T02:39:31.188Z"
   },
   {
     "schema_version": "1.0",
@@ -7416,7 +7416,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Armor_Up_Survivor_Expansion",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7438,7 +7438,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:44.424Z"
+    "last_updated": "2026-06-09T02:39:34.486Z"
   },
   {
     "schema_version": "1.0",
@@ -7451,7 +7451,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-100%_monster_resilience_version",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7474,7 +7474,7 @@
       "branch": "main"
     },
     "parent": "bl9_100monres",
-    "last_updated": "2026-06-08T03:02:48.275Z"
+    "last_updated": "2026-06-09T02:39:38.865Z"
   },
   {
     "schema_version": "1.0",
@@ -7487,7 +7487,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-140%_monster_resilience_version",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7510,7 +7510,7 @@
       "branch": "main"
     },
     "parent": "bl9_140monres",
-    "last_updated": "2026-06-08T03:02:50.550Z"
+    "last_updated": "2026-06-09T02:39:41.430Z"
   },
   {
     "schema_version": "1.0",
@@ -7523,7 +7523,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-175%_monster_resilience_version",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7546,7 +7546,7 @@
       "branch": "main"
     },
     "parent": "bl9_175monres",
-    "last_updated": "2026-06-08T03:02:40.524Z"
+    "last_updated": "2026-06-09T02:39:30.235Z"
   },
   {
     "schema_version": "1.0",
@@ -7559,7 +7559,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Battle_Maid_Redux",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7581,7 +7581,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:05.276Z"
+    "last_updated": "2026-06-09T02:39:56.781Z"
   },
   {
     "schema_version": "1.0",
@@ -7594,7 +7594,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Biosynthetic_Robot_Mod_jm",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7616,7 +7616,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:53.242Z"
+    "last_updated": "2026-06-09T02:39:44.227Z"
   },
   {
     "schema_version": "1.0",
@@ -7629,7 +7629,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_CRT_EXPANSION",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7651,7 +7651,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:43.883Z"
+    "last_updated": "2026-06-09T02:39:33.848Z"
   },
   {
     "schema_version": "1.0",
@@ -7664,7 +7664,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_CBMArms",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7686,7 +7686,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:28.153Z"
+    "last_updated": "2026-06-09T02:39:16.682Z"
   },
   {
     "schema_version": "1.0",
@@ -7699,7 +7699,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_nocts_cata/XL_Armors_nocts_cata_mod_BN",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7721,7 +7721,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:48.350Z"
+    "last_updated": "2026-06-09T02:39:38.970Z"
   },
   {
     "schema_version": "1.0",
@@ -7734,7 +7734,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Expansion_Tefnut",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7756,7 +7756,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:48.202Z"
+    "last_updated": "2026-06-09T02:39:38.760Z"
   },
   {
     "schema_version": "1.0",
@@ -7769,7 +7769,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Ninja_mod",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7791,7 +7791,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:05.620Z"
+    "last_updated": "2026-06-09T02:39:57.201Z"
   },
   {
     "schema_version": "1.0",
@@ -7804,7 +7804,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Fallout_CDDA_BrightNights",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7826,7 +7826,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:56.143Z"
+    "last_updated": "2026-06-09T02:39:47.413Z"
   },
   {
     "schema_version": "1.0",
@@ -7839,7 +7839,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Fallout_Mod_Expansion_jm",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7861,7 +7861,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:26.316Z"
+    "last_updated": "2026-06-09T02:39:14.744Z"
   },
   {
     "schema_version": "1.0",
@@ -7874,7 +7874,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Kingsman",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7896,7 +7896,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:44.848Z"
+    "last_updated": "2026-06-09T02:39:35.019Z"
   },
   {
     "schema_version": "1.0",
@@ -7909,7 +7909,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_Magiclysm",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7931,7 +7931,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:48.859Z"
+    "last_updated": "2026-06-09T02:39:39.603Z"
   },
   {
     "schema_version": "1.0",
@@ -7944,7 +7944,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_makeshift",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -7966,7 +7966,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:44.765Z"
+    "last_updated": "2026-06-09T02:39:34.911Z"
   },
   {
     "schema_version": "1.0",
@@ -7979,7 +7979,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Merchant",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8001,7 +8001,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:29.226Z"
+    "last_updated": "2026-06-09T02:39:17.958Z"
   },
   {
     "schema_version": "1.0",
@@ -8014,7 +8014,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8036,7 +8036,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:05.699Z"
+    "last_updated": "2026-06-09T02:39:57.307Z"
   },
   {
     "schema_version": "1.0",
@@ -8049,7 +8049,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_More_Makeshift_Stuff",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8071,7 +8071,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:33.954Z"
+    "last_updated": "2026-06-09T02:39:22.942Z"
   },
   {
     "schema_version": "1.0",
@@ -8084,7 +8084,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_More_Survival_Tools",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8106,7 +8106,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:49.828Z"
+    "last_updated": "2026-06-09T02:39:40.589Z"
   },
   {
     "schema_version": "1.0",
@@ -8119,7 +8119,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_More_Survivor_Stuff",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8141,7 +8141,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:26.029Z"
+    "last_updated": "2026-06-09T02:39:14.426Z"
   },
   {
     "schema_version": "1.0",
@@ -8154,7 +8154,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_No_Hope",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8176,7 +8176,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:55.890Z"
+    "last_updated": "2026-06-09T02:39:47.095Z"
   },
   {
     "schema_version": "1.0",
@@ -8189,7 +8189,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_PKs_Rebalancing",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8211,7 +8211,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:22.320Z"
+    "last_updated": "2026-06-09T02:39:10.775Z"
   },
   {
     "schema_version": "1.0",
@@ -8224,7 +8224,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_PoraComp-1.5.2",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8246,7 +8246,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:29.819Z"
+    "last_updated": "2026-06-09T02:39:18.696Z"
   },
   {
     "schema_version": "1.0",
@@ -8259,7 +8259,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_ProjectAPEX",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8281,7 +8281,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:41.648Z"
+    "last_updated": "2026-06-09T02:39:31.612Z"
   },
   {
     "schema_version": "1.0",
@@ -8294,7 +8294,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Project_Kawaii",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8316,7 +8316,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:41.501Z"
+    "last_updated": "2026-06-09T02:39:31.400Z"
   },
   {
     "schema_version": "1.0",
@@ -8329,7 +8329,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Real_Dark_Skies_Above",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8351,7 +8351,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:22.060Z"
+    "last_updated": "2026-06-09T02:39:10.459Z"
   },
   {
     "schema_version": "1.0",
@@ -8365,7 +8365,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_secronom",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8388,7 +8388,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:44.065Z"
+    "last_updated": "2026-06-09T02:39:34.065Z"
   },
   {
     "schema_version": "1.0",
@@ -8402,7 +8402,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_secronom_lore_expansion",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8426,7 +8426,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:07.033Z"
+    "last_updated": "2026-06-09T02:39:58.838Z"
   },
   {
     "schema_version": "1.0",
@@ -8439,7 +8439,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Reapermod_Shinigami",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8461,7 +8461,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:21.267Z"
+    "last_updated": "2026-06-09T02:39:09.586Z"
   },
   {
     "schema_version": "1.0",
@@ -8474,7 +8474,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_CDDA_Sierra_Madre_mod_bright_nights_version",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8496,7 +8496,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:06.625Z"
+    "last_updated": "2026-06-09T02:39:58.310Z"
   },
   {
     "schema_version": "1.0",
@@ -8509,7 +8509,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Steampunk_mod_jm",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8531,7 +8531,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:01.894Z"
+    "last_updated": "2026-06-09T02:39:53.302Z"
   },
   {
     "schema_version": "1.0",
@@ -8544,7 +8544,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Survivors_Lost_item",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8566,7 +8566,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:57.179Z"
+    "last_updated": "2026-06-09T02:39:48.532Z"
   },
   {
     "schema_version": "1.0",
@@ -8579,7 +8579,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Vermilion_Mod",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8601,7 +8601,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:51.858Z"
+    "last_updated": "2026-06-09T02:39:42.883Z"
   },
   {
     "schema_version": "1.0",
@@ -8614,7 +8614,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_thermal_ups",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8636,7 +8636,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:26.222Z"
+    "last_updated": "2026-06-09T02:39:14.638Z"
   },
   {
     "schema_version": "1.0",
@@ -8649,7 +8649,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Subway_Factions_Mod_jm",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8671,7 +8671,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:44.159Z"
+    "last_updated": "2026-06-09T02:39:34.170Z"
   },
   {
     "schema_version": "1.0",
@@ -8684,7 +8684,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Valkyria_Mod_jm",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8706,7 +8706,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:42.394Z"
+    "last_updated": "2026-06-09T02:39:32.384Z"
   },
   {
     "schema_version": "1.0",
@@ -8719,7 +8719,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_vamp_stuff",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8741,7 +8741,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:35.168Z"
+    "last_updated": "2026-06-09T02:39:24.289Z"
   },
   {
     "schema_version": "1.0",
@@ -8754,7 +8754,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Wild_Living",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8776,7 +8776,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:01.803Z"
+    "last_updated": "2026-06-09T02:39:53.194Z"
   },
   {
     "schema_version": "1.0",
@@ -8789,7 +8789,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_World_On_Fire",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8811,7 +8811,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:28.861Z"
+    "last_updated": "2026-06-09T02:39:17.431Z"
   },
   {
     "schema_version": "1.0",
@@ -8824,7 +8824,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_XEAS",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8846,7 +8846,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:40.098Z"
+    "last_updated": "2026-06-09T02:39:29.692Z"
   },
   {
     "schema_version": "1.0",
@@ -8859,7 +8859,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_ZSFixed_CDDAXP",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8881,7 +8881,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:39.703Z"
+    "last_updated": "2026-06-09T02:39:29.160Z"
   },
   {
     "schema_version": "1.0",
@@ -8894,7 +8894,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_TCW_Box",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8916,7 +8916,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:50.633Z"
+    "last_updated": "2026-06-09T02:39:41.536Z"
   },
   {
     "schema_version": "1.0",
@@ -8929,7 +8929,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Vorpal_Weapons",
-    "version": "2026.6.8-2e94b3e",
+    "version": "2026.6.9-2e94b3e",
     "yanked": {
       "reason": "can re-fit armors into XL"
     },
@@ -8951,7 +8951,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:02:19.656Z"
+    "last_updated": "2026-06-09T02:39:07.987Z"
   },
   {
     "schema_version": "1.0",
@@ -8964,7 +8964,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/Krwak/XL-Clothing/tree/main/XL Clothing",
-    "version": "2026.6.8-c0ebaf2",
+    "version": "2026.6.9-c0ebaf2",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -8983,7 +8983,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:00.803Z"
+    "last_updated": "2026-06-09T02:39:52.223Z"
   },
   {
     "schema_version": "1.0",
@@ -9017,7 +9017,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9051,7 +9051,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9085,7 +9085,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9120,7 +9120,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9155,7 +9155,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9189,7 +9189,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9221,7 +9221,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9234,7 +9234,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/thhoney08/ZombieHighMod_LessNpcs",
-    "version": "2026.6.8-b52e508",
+    "version": "2026.6.9-b52e508",
     "dependencies": {
       "bn": ">=0.9.1",
       "zhigh_mod": "*"
@@ -9254,7 +9254,7 @@
       "branch": "main"
     },
     "parent": "zhigh_mod",
-    "last_updated": "2026-06-08T03:02:57.541Z"
+    "last_updated": "2026-06-09T02:39:48.922Z"
   },
   {
     "schema_version": "1.0",
@@ -9288,7 +9288,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9322,7 +9322,7 @@
       "type": "commit",
       "branch": "master"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   },
   {
     "schema_version": "1.0",
@@ -9335,7 +9335,7 @@
     ],
     "license": "ALL-RIGHTS-RESERVED",
     "homepage": "https://github.com/NappingOcean/Wield_Wild_Weapons",
-    "version": "2026.6.8-4f34ea5",
+    "version": "2026.6.9-4f34ea5",
     "dependencies": {
       "bn": ">=0.9.1"
     },
@@ -9353,7 +9353,7 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T03:03:06.127Z"
+    "last_updated": "2026-06-09T02:39:57.818Z"
   },
   {
     "schema_version": "1.0",
@@ -9385,6 +9385,6 @@
       "type": "commit",
       "branch": "main"
     },
-    "last_updated": "2026-06-08T00:54:13Z"
+    "last_updated": "2026-06-08T03:03:09Z"
   }
 ]
