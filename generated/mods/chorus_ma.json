@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Martial Arts",
-  "version": "2026.6.9-77f71e1",
+  "version": "2026.6.10-77f71e1",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -30,6 +30,16 @@
         "extract_path": "Chorus Martial Arts"
       },
       "released_at": "2026-06-08T03:02:56.059Z"
+    },
+    {
+      "version": "2026.6.9-77f71e1",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip",
+        "commit_sha": "77f71e190c6bb430da393eb06ee49f336221715e",
+        "extract_path": "Chorus Martial Arts"
+      },
+      "released_at": "2026-06-09T02:39:47.307Z"
     }
   ],
   "dependencies": {
@@ -50,5 +60,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-09T02:39:47.307Z"
+  "last_updated": "2026-06-10T02:55:39.776Z"
 }

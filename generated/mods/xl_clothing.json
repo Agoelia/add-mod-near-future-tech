@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Krwak/XL-Clothing/tree/main/XL Clothing",
-  "version": "2026.6.9-c0ebaf2",
+  "version": "2026.6.10-c0ebaf2",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -30,6 +30,16 @@
         "extract_path": "XL Clothing"
       },
       "released_at": "2026-06-08T03:03:00.803Z"
+    },
+    {
+      "version": "2026.6.9-c0ebaf2",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Krwak/XL-Clothing/archive/refs/heads/main.zip",
+        "commit_sha": "c0ebaf2de67e3a626ae7008867fe503f0f659db4",
+        "extract_path": "XL Clothing"
+      },
+      "released_at": "2026-06-09T02:39:52.223Z"
     }
   ],
   "dependencies": {
@@ -50,5 +60,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-09T02:39:52.223Z"
+  "last_updated": "2026-06-10T02:55:54.778Z"
 }

@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Fentanylreactor/CBN-INFPerks",
-  "version": "2026.6.9-9387fb9",
+  "version": "2026.6.10-9387fb9",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -28,6 +28,15 @@
         "commit_sha": "9387fb98a69ec8933a47294a519956887458d7dc"
       },
       "released_at": "2026-06-08T03:02:45.427Z"
+    },
+    {
+      "version": "2026.6.9-9387fb9",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Fentanylreactor/CBN-INFPerks/archive/refs/heads/main.zip",
+        "commit_sha": "9387fb98a69ec8933a47294a519956887458d7dc"
+      },
+      "released_at": "2026-06-09T02:39:35.733Z"
     }
   ],
   "dependencies": {
@@ -47,5 +56,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-09T02:39:35.733Z"
+  "last_updated": "2026-06-10T02:55:54.356Z"
 }

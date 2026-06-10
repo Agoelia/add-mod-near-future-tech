@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/ihatenumbers/BN_Gawr_Gura",
-  "version": "2026.6.9-50c6627",
+  "version": "2026.6.10-68daf62",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -28,6 +28,15 @@
         "commit_sha": "50c6627e21bab5455cbc06c7fc990489ccebf16c"
       },
       "released_at": "2026-06-08T03:02:55.576Z"
+    },
+    {
+      "version": "2026.6.9-50c6627",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/ihatenumbers/BN_Gawr_Gura/archive/refs/heads/main.zip",
+        "commit_sha": "50c6627e21bab5455cbc06c7fc990489ccebf16c"
+      },
+      "released_at": "2026-06-09T02:39:46.846Z"
     }
   ],
   "dependencies": {
@@ -36,7 +45,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/ihatenumbers/BN_Gawr_Gura/archive/refs/heads/main.zip",
-    "commit_sha": "50c6627e21bab5455cbc06c7fc990489ccebf16c"
+    "commit_sha": "68daf6210cd729db3663bebfa9766f017654e16f"
   },
   "categories": [
     "content"
@@ -48,5 +57,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-09T02:39:46.846Z"
+  "last_updated": "2026-06-10T02:55:51.375Z"
 }

@@ -14,7 +14,7 @@ author:
   - Some Dumbass
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Bobs Professions"
-version: 2026.6.9-be2f1f9
+version: 2026.6.10-be2f1f9
 previous_releases:
   - version: 0.0.0
     source:
@@ -32,6 +32,14 @@ previous_releases:
       commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
       extract_path: Bobs Professions
     released_at: "2026-06-08T03:03:04.873Z"
+  - version: 2026.6.9-be2f1f9
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip
+      commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
+      extract_path: Bobs Professions
+    released_at: "2026-06-09T02:39:56.247Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -47,4 +55,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-09T02:39:56.247Z"
+last_updated: "2026-06-10T02:55:56.009Z"

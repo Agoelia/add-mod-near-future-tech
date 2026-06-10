@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/thhoney08/ZombieHighMod_LessNpcs",
-  "version": "2026.6.9-b52e508",
+  "version": "2026.6.10-b52e508",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -28,6 +28,15 @@
         "commit_sha": "b52e5080b330567c53aaa385f74e4dc0527f2d4a"
       },
       "released_at": "2026-06-08T03:02:57.541Z"
+    },
+    {
+      "version": "2026.6.9-b52e508",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/thhoney08/ZombieHighMod_LessNpcs/archive/refs/heads/main.zip",
+        "commit_sha": "b52e5080b330567c53aaa385f74e4dc0527f2d4a"
+      },
+      "released_at": "2026-06-09T02:39:48.922Z"
     }
   ],
   "dependencies": {
@@ -49,5 +58,5 @@
     "branch": "main"
   },
   "parent": "zhigh_mod",
-  "last_updated": "2026-06-09T02:39:48.922Z"
+  "last_updated": "2026-06-10T02:55:44.241Z"
 }

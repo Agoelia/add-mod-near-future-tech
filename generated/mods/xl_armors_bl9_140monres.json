@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-140%_monster_resilience_version",
-  "version": "2026.6.9-2e94b3e",
+  "version": "2026.6.10-2e94b3e",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -30,6 +30,16 @@
         "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-140%_monster_resilience_version"
       },
       "released_at": "2026-06-08T03:02:50.550Z"
+    },
+    {
+      "version": "2026.6.9-2e94b3e",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+        "commit_sha": "2e94b3ec069793086efe73923b091a36815c27ae",
+        "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-140%_monster_resilience_version"
+      },
+      "released_at": "2026-06-09T02:39:41.430Z"
     }
   ],
   "yanked": {
@@ -54,5 +64,5 @@
     "branch": "main"
   },
   "parent": "bl9_140monres",
-  "last_updated": "2026-06-09T02:39:41.430Z"
+  "last_updated": "2026-06-10T02:55:51.932Z"
 }

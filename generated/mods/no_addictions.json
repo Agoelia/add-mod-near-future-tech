@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Relgar/CBN-No-Addictions/tree/main/No_Addictions",
-  "version": "2026.6.9-70eec83",
+  "version": "2026.6.10-70eec83",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -30,6 +30,16 @@
         "extract_path": "No_Addictions"
       },
       "released_at": "2026-06-08T03:02:28.461Z"
+    },
+    {
+      "version": "2026.6.9-70eec83",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Relgar/CBN-No-Addictions/archive/refs/heads/main.zip",
+        "commit_sha": "70eec8386256b2c154c7a7ad2efe2459972cf7b0",
+        "extract_path": "No_Addictions"
+      },
+      "released_at": "2026-06-09T02:39:17.050Z"
     }
   ],
   "dependencies": {
@@ -50,5 +60,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-09T02:39:17.050Z"
+  "last_updated": "2026-06-10T02:55:55.692Z"
 }

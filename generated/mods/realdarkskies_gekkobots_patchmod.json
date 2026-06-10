@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Biosynthetic_Robot",
-  "version": "2026.6.9-4e6abff",
+  "version": "2026.6.10-4e6abff",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -30,6 +30,16 @@
         "extract_path": "Patch_mods/RDS_plus_Biosynthetic_Robot"
       },
       "released_at": "2026-06-08T03:02:42.321Z"
+    },
+    {
+      "version": "2026.6.9-4e6abff",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+        "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+        "extract_path": "Patch_mods/RDS_plus_Biosynthetic_Robot"
+      },
+      "released_at": "2026-06-09T02:39:32.279Z"
     }
   ],
   "dependencies": {
@@ -53,5 +63,5 @@
     "branch": "main"
   },
   "parent": "realdarkskies",
-  "last_updated": "2026-06-09T02:39:32.279Z"
+  "last_updated": "2026-06-10T02:55:37.109Z"
 }

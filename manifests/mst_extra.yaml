@@ -11,7 +11,7 @@ author:
   - Chaosvolt
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/chaosvolt/MST_Extra_Mod/tree/master/MST_Extra_BN"
-version: 2026.6.9-fe8a385
+version: 2026.6.10-fe8a385
 previous_releases:
   - version: 0.0.0
     source:
@@ -27,6 +27,13 @@ previous_releases:
       commit_sha: fe8a385a18769498f57458ffb5569477cd87c776
       extract_path: MST_Extra_BN
     released_at: "2026-06-08T03:02:31.211Z"
+  - version: 2026.6.9-fe8a385
+    source:
+      type: github_archive
+      url: "https://github.com/chaosvolt/MST_Extra_Mod/archive/refs/heads/master.zip"
+      commit_sha: fe8a385a18769498f57458ffb5569477cd87c776
+      extract_path: MST_Extra_BN
+    released_at: "2026-06-09T02:39:20.330Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -42,4 +49,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2026-06-09T02:39:20.330Z"
+last_updated: "2026-06-10T02:55:47.303Z"

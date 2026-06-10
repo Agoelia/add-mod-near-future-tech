@@ -11,7 +11,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/WarriorKingBob/Fallout_BrightNights",
-  "version": "2026.6.9-43ef769",
+  "version": "2026.6.10-43ef769",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -30,6 +30,15 @@
         "commit_sha": "43ef76963bd9ee2ded4dd954e8d2f1fb9a82412f"
       },
       "released_at": "2026-06-08T03:02:21.769Z"
+    },
+    {
+      "version": "2026.6.9-43ef769",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/WarriorKingBob/Fallout_BrightNights/archive/refs/heads/main.zip",
+        "commit_sha": "43ef76963bd9ee2ded4dd954e8d2f1fb9a82412f"
+      },
+      "released_at": "2026-06-09T02:39:10.211Z"
     }
   ],
   "dependencies": {
@@ -49,5 +58,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-09T02:39:10.211Z"
+  "last_updated": "2026-06-10T02:55:47.694Z"
 }

@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/thelonestander/Lones-Used-Cars",
-  "version": "2026.6.9-7606d28",
+  "version": "2026.6.10-b0c6193",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -28,6 +28,15 @@
         "commit_sha": "7606d28963d24fc8d21a62e20344d17a168d3bcf"
       },
       "released_at": "2026-06-08T03:02:27.180Z"
+    },
+    {
+      "version": "2026.6.9-7606d28",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip",
+        "commit_sha": "7606d28963d24fc8d21a62e20344d17a168d3bcf"
+      },
+      "released_at": "2026-06-09T02:39:15.833Z"
     }
   ],
   "dependencies": {
@@ -36,7 +45,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip",
-    "commit_sha": "7606d28963d24fc8d21a62e20344d17a168d3bcf"
+    "commit_sha": "b0c61933e880742a3a3f9fb149a1e468ae58eafb"
   },
   "categories": [
     "content"
@@ -47,5 +56,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-09T02:39:15.833Z"
+  "last_updated": "2026-06-10T02:55:39.172Z"
 }

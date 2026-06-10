@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Robots_Reprogrammed
-version: 2026.6.9-4e6abff
+version: 2026.6.10-4e6abff
 previous_releases:
   - version: 0.0.0
     source:
@@ -30,6 +30,14 @@ previous_releases:
       commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
       extract_path: Patch_mods/RDS_Robots_Reprogrammed
     released_at: "2026-06-08T03:02:31.607Z"
+  - version: 2026.6.9-4e6abff
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_Robots_Reprogrammed
+    released_at: "2026-06-09T02:39:20.665Z"
 dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
@@ -47,4 +55,4 @@ autoupdate:
   type: commit
   branch: main
 parent: realdarkskies
-last_updated: "2026-06-09T02:39:20.665Z"
+last_updated: "2026-06-10T02:55:42.271Z"
