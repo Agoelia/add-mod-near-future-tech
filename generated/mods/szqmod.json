@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/SzQ1/SzQmod",
-  "version": "2026.6.10-47f0f33",
+  "version": "2026.6.11-47f0f33",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -37,6 +37,15 @@
         "commit_sha": "47f0f33e984545bde85bdd75215c2f3261f8e5f2"
       },
       "released_at": "2026-06-09T02:39:27.095Z"
+    },
+    {
+      "version": "2026.6.10-47f0f33",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/SzQ1/SzQmod/archive/refs/heads/main.zip",
+        "commit_sha": "47f0f33e984545bde85bdd75215c2f3261f8e5f2"
+      },
+      "released_at": "2026-06-10T02:55:40.473Z"
     }
   ],
   "dependencies": {
@@ -56,5 +65,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-10T02:55:40.473Z"
+  "last_updated": "2026-06-11T02:58:07.856Z"
 }

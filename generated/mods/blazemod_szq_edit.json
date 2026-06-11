@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/SzQ1/blazemod-SzQ-edit",
-  "version": "2026.6.10-b4b8ded",
+  "version": "2026.6.11-b4b8ded",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -37,6 +37,15 @@
         "commit_sha": "b4b8ded0c6dd3e605d26766f5179d0e5a2a3362e"
       },
       "released_at": "2026-06-09T02:39:52.709Z"
+    },
+    {
+      "version": "2026.6.10-b4b8ded",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/SzQ1/blazemod-SzQ-edit/archive/refs/heads/main.zip",
+        "commit_sha": "b4b8ded0c6dd3e605d26766f5179d0e5a2a3362e"
+      },
+      "released_at": "2026-06-10T02:55:45.628Z"
     }
   ],
   "dependencies": {
@@ -56,5 +65,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-10T02:55:45.628Z"
+  "last_updated": "2026-06-11T02:58:23.136Z"
 }

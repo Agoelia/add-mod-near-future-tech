@@ -12,7 +12,7 @@ author:
   - echoloth
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod"
-version: 2026.6.10-13dfa70
+version: 2026.6.11-13dfa70
 previous_releases:
   - version: 0.0.0
     source:
@@ -35,6 +35,13 @@ previous_releases:
         https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/archive/refs/heads/main.zip
       commit_sha: 13dfa70c98063827d03f827629495b7058f8dc1a
     released_at: "2026-06-09T02:39:37.109Z"
+  - version: 2026.6.10-13dfa70
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/archive/refs/heads/main.zip
+      commit_sha: 13dfa70c98063827d03f827629495b7058f8dc1a
+    released_at: "2026-06-10T02:55:43.408Z"
 dependencies:
   bn: ">=0.9.1"
   gov_bandits: "*"
@@ -51,4 +58,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-10T02:55:43.408Z"
+last_updated: "2026-06-11T02:58:17.476Z"

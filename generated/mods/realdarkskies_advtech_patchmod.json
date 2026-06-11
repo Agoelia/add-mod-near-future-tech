@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_AdvancedTech",
-  "version": "2026.6.10-4e6abff",
+  "version": "2026.6.11-4e6abff",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -40,6 +40,16 @@
         "extract_path": "Patch_mods/RDS_plus_AdvancedTech"
       },
       "released_at": "2026-06-09T02:39:12.587Z"
+    },
+    {
+      "version": "2026.6.10-4e6abff",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+        "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+        "extract_path": "Patch_mods/RDS_plus_AdvancedTech"
+      },
+      "released_at": "2026-06-10T02:55:55.959Z"
     }
   ],
   "dependencies": {
@@ -63,5 +73,5 @@
     "branch": "main"
   },
   "parent": "realdarkskies",
-  "last_updated": "2026-06-10T02:55:55.959Z"
+  "last_updated": "2026-06-11T02:58:51.221Z"
 }

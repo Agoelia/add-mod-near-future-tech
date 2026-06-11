@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_More_Strays
-version: 2026.6.10-4e6abff
+version: 2026.6.11-4e6abff
 previous_releases:
   - version: 0.0.0
     source:
@@ -38,6 +38,14 @@ previous_releases:
       commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
       extract_path: Patch_mods/RDS_More_Strays
     released_at: "2026-06-09T02:39:23.761Z"
+  - version: 2026.6.10-4e6abff
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_More_Strays
+    released_at: "2026-06-10T02:55:51.154Z"
 dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
@@ -55,4 +63,4 @@ autoupdate:
   type: commit
   branch: main
 parent: realdarkskies
-last_updated: "2026-06-10T02:55:51.154Z"
+last_updated: "2026-06-11T02:58:38.277Z"

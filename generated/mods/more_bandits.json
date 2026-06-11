@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/SzQ1/More-Bandits",
-  "version": "2026.6.10-c36d4d8",
+  "version": "2026.6.11-c36d4d8",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -37,6 +37,15 @@
         "commit_sha": "c36d4d831c63e91d24c73448333fbf1419da32e4"
       },
       "released_at": "2026-06-09T02:39:28.690Z"
+    },
+    {
+      "version": "2026.6.10-c36d4d8",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/SzQ1/More-Bandits/archive/refs/heads/main.zip",
+        "commit_sha": "c36d4d831c63e91d24c73448333fbf1419da32e4"
+      },
+      "released_at": "2026-06-10T02:55:49.599Z"
     }
   ],
   "dependencies": {
@@ -56,5 +65,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-10T02:55:49.599Z"
+  "last_updated": "2026-06-11T02:58:34.143Z"
 }
