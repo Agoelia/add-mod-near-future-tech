@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/yct1998/BN_Talk_AI",
-  "version": "2026.6.11-8e8255f",
+  "version": "2026.6.12-8e8255f",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -46,6 +46,15 @@
         "commit_sha": "8e8255fac9b03ee8bf464dc589dfa20d199a12e6"
       },
       "released_at": "2026-06-10T02:55:44.873Z"
+    },
+    {
+      "version": "2026.6.11-8e8255f",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/yct1998/BN_Talk_AI/archive/refs/heads/main.zip",
+        "commit_sha": "8e8255fac9b03ee8bf464dc589dfa20d199a12e6"
+      },
+      "released_at": "2026-06-11T02:58:21.140Z"
     }
   ],
   "dependencies": {
@@ -66,5 +75,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-11T02:58:21.140Z"
+  "last_updated": "2026-06-12T03:01:32.644Z"
 }

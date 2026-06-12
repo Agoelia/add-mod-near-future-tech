@@ -7,7 +7,7 @@ author:
   - Alec White
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/AlecWhite/Metal_Scrap_Walls"
-version: 2026.6.11-b383940
+version: 2026.6.12-b383940
 previous_releases:
   - version: 0.0.0
     source:
@@ -37,6 +37,13 @@ previous_releases:
         https://github.com/AlecWhite/Metal_Scrap_Walls/archive/refs/heads/main.zip
       commit_sha: b38394082f0e63588f59d229f00424f0e65c8cf8
     released_at: "2026-06-10T02:55:41.549Z"
+  - version: 2026.6.11-b383940
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/AlecWhite/Metal_Scrap_Walls/archive/refs/heads/main.zip
+      commit_sha: b38394082f0e63588f59d229f00424f0e65c8cf8
+    released_at: "2026-06-11T02:58:11.880Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -51,4 +58,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-11T02:58:11.880Z"
+last_updated: "2026-06-12T03:01:27.897Z"

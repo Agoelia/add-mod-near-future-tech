@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/RV Man",
-  "version": "2026.6.11-be2f1f9",
+  "version": "2026.6.12-be2f1f9",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -50,6 +50,16 @@
         "extract_path": "RV Man"
       },
       "released_at": "2026-06-10T02:55:41.178Z"
+    },
+    {
+      "version": "2026.6.11-be2f1f9",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip",
+        "commit_sha": "be2f1f958c17fbf2a5dbdff05ca45e690533fce5",
+        "extract_path": "RV Man"
+      },
+      "released_at": "2026-06-11T02:58:10.130Z"
     }
   ],
   "dependencies": {
@@ -70,5 +80,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-11T02:58:10.130Z"
+  "last_updated": "2026-06-12T03:01:27.214Z"
 }

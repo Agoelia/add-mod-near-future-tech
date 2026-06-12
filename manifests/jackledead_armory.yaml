@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/jackledead/jackledead_armory/tree/main/modsBrightNights/jackledead_armory
-version: 2026.6.11-7262ba9
+version: 2026.6.12-7262ba9
 previous_releases:
   - version: 0.0.0
     source:
@@ -46,6 +46,14 @@ previous_releases:
       commit_sha: 7262ba982a83f37cb1b12cac58e5f053a44a1833
       extract_path: modsBrightNights/jackledead_armory
     released_at: "2026-06-10T02:55:39.599Z"
+  - version: 2026.6.11-7262ba9
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/jackledead/jackledead_armory/archive/refs/heads/main.zip
+      commit_sha: 7262ba982a83f37cb1b12cac58e5f053a44a1833
+      extract_path: modsBrightNights/jackledead_armory
+    released_at: "2026-06-11T02:58:05.447Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -61,4 +69,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-11T02:58:05.447Z"
+last_updated: "2026-06-12T03:01:24.526Z"
