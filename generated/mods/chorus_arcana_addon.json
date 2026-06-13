@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Arcana Addon",
-  "version": "2026.6.12-77f71e1",
+  "version": "2026.6.13-77f71e1",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -60,6 +60,16 @@
         "extract_path": "Chorus Arcana Addon"
       },
       "released_at": "2026-06-11T02:58:04.851Z"
+    },
+    {
+      "version": "2026.6.12-77f71e1",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip",
+        "commit_sha": "77f71e190c6bb430da393eb06ee49f336221715e",
+        "extract_path": "Chorus Arcana Addon"
+      },
+      "released_at": "2026-06-12T03:01:24.112Z"
     }
   ],
   "dependencies": {
@@ -81,5 +91,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-12T03:01:24.112Z"
+  "last_updated": "2026-06-13T02:48:44.362Z"
 }

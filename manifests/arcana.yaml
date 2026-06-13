@@ -8,7 +8,7 @@ author:
   - Chaosvolt
 license: CC-BY-SA-3.0
 homepage: "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Arcana_BN"
-version: 2026.6.12-33bfbbe
+version: 2026.6.13-33bfbbe
 previous_releases:
   - version: 0.0.0
     source:
@@ -50,6 +50,14 @@ previous_releases:
       commit_sha: 33bfbbe31cd95575636443b13183e127e19e36d0
       extract_path: Arcana_BN
     released_at: "2026-06-11T02:58:00.661Z"
+  - version: 2026.6.12-33bfbbe
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip
+      commit_sha: 33bfbbe31cd95575636443b13183e127e19e36d0
+      extract_path: Arcana_BN
+    released_at: "2026-06-12T03:01:21.862Z"
 yanked:
   reason: "Mainlined in Cataclysm: Bright Nights."
 dependencies:
@@ -67,4 +75,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2026-06-12T03:01:21.862Z"
+last_updated: "2026-06-13T02:48:42.196Z"

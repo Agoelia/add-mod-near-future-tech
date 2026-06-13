@@ -12,7 +12,7 @@ author:
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/Hope-in-the-Dark/tree/main/Hope-in-the-dark"
-version: 2026.6.12-0175d79
+version: 2026.6.13-0175d79
 previous_releases:
   - version: 0.0.0
     source:
@@ -49,6 +49,13 @@ previous_releases:
       commit_sha: 0175d790dbfe8a239bbd4aeb1821fc5698b434e6
       extract_path: Hope-in-the-dark
     released_at: "2026-06-11T02:58:52.605Z"
+  - version: 2026.6.12-0175d79
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/Hope-in-the-Dark/archive/refs/heads/main.zip"
+      commit_sha: 0175d790dbfe8a239bbd4aeb1821fc5698b434e6
+      extract_path: Hope-in-the-dark
+    released_at: "2026-06-12T03:01:48.976Z"
 dependencies:
   magicalnights: "*"
 source:
@@ -64,4 +71,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-12T03:01:48.976Z"
+last_updated: "2026-06-13T02:49:07.763Z"

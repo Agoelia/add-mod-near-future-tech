@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/jackledead/jackledead_armory/tree/main/modsBrightNights/jackledead_armory_expansion",
-  "version": "2026.6.12-7262ba9",
+  "version": "2026.6.13-7262ba9",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -60,6 +60,16 @@
         "extract_path": "modsBrightNights/jackledead_armory_expansion"
       },
       "released_at": "2026-06-11T02:58:56.524Z"
+    },
+    {
+      "version": "2026.6.12-7262ba9",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/jackledead/jackledead_armory/archive/refs/heads/main.zip",
+        "commit_sha": "7262ba982a83f37cb1b12cac58e5f053a44a1833",
+        "extract_path": "modsBrightNights/jackledead_armory_expansion"
+      },
+      "released_at": "2026-06-12T03:01:50.779Z"
     }
   ],
   "dependencies": {
@@ -82,5 +92,5 @@
     "branch": "main"
   },
   "parent": "jackledead_armory",
-  "last_updated": "2026-06-12T03:01:50.779Z"
+  "last_updated": "2026-06-13T02:49:09.579Z"
 }

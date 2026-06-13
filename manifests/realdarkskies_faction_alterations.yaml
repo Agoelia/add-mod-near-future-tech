@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Faction_balance
-version: 2026.6.12-4e6abff
+version: 2026.6.13-4e6abff
 previous_releases:
   - version: 0.0.0
     source:
@@ -54,6 +54,14 @@ previous_releases:
       commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
       extract_path: Patch_mods/RDS_Faction_balance
     released_at: "2026-06-11T02:58:11.164Z"
+  - version: 2026.6.12-4e6abff
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_Faction_balance
+    released_at: "2026-06-12T03:01:27.517Z"
 dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
@@ -71,4 +79,4 @@ autoupdate:
   type: commit
   branch: main
 parent: realdarkskies
-last_updated: "2026-06-12T03:01:27.517Z"
+last_updated: "2026-06-13T02:48:47.278Z"

@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/chaosvolt/cdda_medieval_mod_reborn/tree/master/Medieval_Mod_Reborn_BN",
-  "version": "2026.6.12-bc8a31d",
+  "version": "2026.6.13-bc8a31d",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -60,6 +60,16 @@
         "extract_path": "Medieval_Mod_Reborn_BN"
       },
       "released_at": "2026-06-11T02:58:18.842Z"
+    },
+    {
+      "version": "2026.6.12-bc8a31d",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/chaosvolt/cdda_medieval_mod_reborn/archive/refs/heads/master.zip",
+        "commit_sha": "bc8a31d64dc5a19b7e45f67d8cbbf41cee315d8d",
+        "extract_path": "Medieval_Mod_Reborn_BN"
+      },
+      "released_at": "2026-06-12T03:01:31.298Z"
     }
   ],
   "dependencies": {
@@ -80,5 +90,5 @@
     "type": "commit",
     "branch": "master"
   },
-  "last_updated": "2026-06-12T03:01:31.298Z"
+  "last_updated": "2026-06-13T02:48:50.800Z"
 }

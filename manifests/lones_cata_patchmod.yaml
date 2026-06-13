@@ -9,7 +9,7 @@ license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/thelonestander/Lones-atomic-additions/tree/main/Cata++
   patch mod
-version: 2026.6.12-5652911
+version: 2026.6.13-5652911
 previous_releases:
   - version: 0.0.0
     source:
@@ -51,6 +51,14 @@ previous_releases:
       commit_sha: 565291116383ec20aea8aae5ec2f62d6a6b9fe8a
       extract_path: Cata++ patch mod
     released_at: "2026-06-11T02:57:54.450Z"
+  - version: 2026.6.12-5652911
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip
+      commit_sha: 565291116383ec20aea8aae5ec2f62d6a6b9fe8a
+      extract_path: Cata++ patch mod
+    released_at: "2026-06-12T03:01:18.335Z"
 dependencies:
   bn: ">=0.9.1"
   cata++: "*"
@@ -68,4 +76,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-12T03:01:18.335Z"
+last_updated: "2026-06-13T02:48:38.987Z"

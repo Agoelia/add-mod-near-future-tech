@@ -10,7 +10,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod",
-  "version": "2026.6.12-13dfa70",
+  "version": "2026.6.13-13dfa70",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -56,6 +56,15 @@
         "commit_sha": "13dfa70c98063827d03f827629495b7058f8dc1a"
       },
       "released_at": "2026-06-11T02:58:17.476Z"
+    },
+    {
+      "version": "2026.6.12-13dfa70",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/archive/refs/heads/main.zip",
+        "commit_sha": "13dfa70c98063827d03f827629495b7058f8dc1a"
+      },
+      "released_at": "2026-06-12T03:01:30.623Z"
     }
   ],
   "dependencies": {
@@ -76,5 +85,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-12T03:01:30.623Z"
+  "last_updated": "2026-06-13T02:48:50.179Z"
 }
