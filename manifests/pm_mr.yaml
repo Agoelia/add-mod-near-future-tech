@@ -11,7 +11,7 @@ author:
   - Some Dumbass
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Militia Rifleman"
-version: 2026.6.13-be2f1f9
+version: 2026.6.14-be2f1f9
 previous_releases:
   - version: 0.0.0
     source:
@@ -61,6 +61,14 @@ previous_releases:
       commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
       extract_path: Militia Rifleman
     released_at: "2026-06-12T03:01:48.581Z"
+  - version: 2026.6.13-be2f1f9
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip
+      commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
+      extract_path: Militia Rifleman
+    released_at: "2026-06-13T02:49:07.343Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -76,4 +84,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-13T02:49:07.343Z"
+last_updated: "2026-06-14T02:59:38.323Z"

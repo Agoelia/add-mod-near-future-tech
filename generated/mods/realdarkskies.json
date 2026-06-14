@@ -8,7 +8,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Really_Dark_Skies",
-  "version": "2026.6.13-4e6abff",
+  "version": "2026.6.14-4e6abff",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -69,6 +69,16 @@
         "extract_path": "Really_Dark_Skies"
       },
       "released_at": "2026-06-12T03:01:41.716Z"
+    },
+    {
+      "version": "2026.6.13-4e6abff",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+        "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+        "extract_path": "Really_Dark_Skies"
+      },
+      "released_at": "2026-06-13T02:49:00.651Z"
     }
   ],
   "dependencies": {
@@ -90,5 +100,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-13T02:49:00.651Z"
+  "last_updated": "2026-06-14T02:59:26.481Z"
 }

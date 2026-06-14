@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/AlecWhite/Lolita_Fashion",
-  "version": "2026.6.13-933eab0",
+  "version": "2026.6.14-933eab0",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -64,6 +64,15 @@
         "commit_sha": "933eab00c9d546d5d63a94929a9d2fdc70602d04"
       },
       "released_at": "2026-06-12T03:01:22.957Z"
+    },
+    {
+      "version": "2026.6.13-933eab0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip",
+        "commit_sha": "933eab00c9d546d5d63a94929a9d2fdc70602d04"
+      },
+      "released_at": "2026-06-13T02:48:43.241Z"
     }
   ],
   "dependencies": {
@@ -84,5 +93,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-13T02:48:43.241Z"
+  "last_updated": "2026-06-14T02:58:53.862Z"
 }
