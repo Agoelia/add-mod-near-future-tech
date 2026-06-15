@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_MagicalNight",
-  "version": "2026.6.14-4e6abff",
+  "version": "2026.6.15-4e6abff",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -80,6 +80,16 @@
         "extract_path": "Patch_mods/RDS_plus_MagicalNight"
       },
       "released_at": "2026-06-13T02:49:08.016Z"
+    },
+    {
+      "version": "2026.6.14-4e6abff",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+        "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+        "extract_path": "Patch_mods/RDS_plus_MagicalNight"
+      },
+      "released_at": "2026-06-14T02:59:39.384Z"
     }
   ],
   "dependencies": {
@@ -103,5 +113,5 @@
     "branch": "main"
   },
   "parent": "realdarkskies",
-  "last_updated": "2026-06-14T02:59:39.384Z"
+  "last_updated": "2026-06-15T03:32:51.224Z"
 }
