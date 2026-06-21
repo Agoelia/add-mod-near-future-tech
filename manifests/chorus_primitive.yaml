@@ -12,7 +12,7 @@ author:
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/ChorusMod/tree/main/Chorus Primitive"
-version: 2026.6.20-9ba39b3
+version: 2026.6.21-ab2e64d
 previous_releases:
   - version: 0.0.0
     source:
@@ -105,12 +105,19 @@ previous_releases:
       commit_sha: 9ba39b3d1a51b4d743fbb8171079645c918a9854
       extract_path: Chorus Primitive
     released_at: "2026-06-19T03:56:15.408Z"
+  - version: 2026.6.20-9ba39b3
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+      commit_sha: 9ba39b3d1a51b4d743fbb8171079645c918a9854
+      extract_path: Chorus Primitive
+    released_at: "2026-06-20T02:49:06.520Z"
 dependencies:
   bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
-  commit_sha: 9ba39b3d1a51b4d743fbb8171079645c918a9854
+  commit_sha: ab2e64d8ac4ea3d616dfc6402e6fa149202efe16
   extract_path: Chorus Primitive
 categories:
   - content
@@ -120,4 +127,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-20T02:49:06.520Z"
+last_updated: "2026-06-21T03:28:25.914Z"

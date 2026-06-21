@@ -101,33 +101,33 @@ items, buildings, scenarios, monsters, etc. It also reworks and | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Arcana Addon](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.20-9ba39b3 | Various things added to Arcana, some pulled
+| ChorusSystem | 2026.6.21-ab2e64d | Various things added to Arcana, some pulled
 from other mods. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's CBMs](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.20-9ba39b3 | Edits and additions to CBM content, mostly
+| ChorusSystem | 2026.6.21-ab2e64d | Edits and additions to CBM content, mostly
 to personal preference and as a learning tool. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Gear](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.20-9ba39b3 | Edits and additions to weaponry, mostly to
+| ChorusSystem | 2026.6.21-ab2e64d | Edits and additions to weaponry, mostly to
 personal preference and as a learning tool. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Martial Arts](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.20-9ba39b3 | Custom martial arts styles. Perhaps not the
+| ChorusSystem | 2026.6.21-ab2e64d | Custom martial arts styles. Perhaps not the
 most realistic! Finally balanced a bit better. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Primitive Living](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| Tyzegt,ChorusSystem | 2026.6.20-9ba39b3 | Mostly things ripped from Primal
+| Tyzegt,ChorusSystem | 2026.6.21-ab2e64d | Mostly things ripped from Primal
 World, but without sacrificing preexisting structures and non-foraged loot. Do
 not use with Primal World. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Starts](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.20-9ba39b3 | New starts, mostly based around characters
+| ChorusSystem | 2026.6.21-ab2e64d | New starts, mostly based around characters
 I like from other series. Probably OP. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -595,6 +595,14 @@ changes and mutagen accumulation. | |
 |
 [Otopack BN Mk 2](https://github.com/NarandBD/Otopack-BN-Mk-2/archive/refs/tags/sorrynotsorry.zip)
 | NarandBD | 2026.2.12 | Soundpack maintained for Cataclysm: Bright Nights. | |
+![Icon](https://raw.githubusercontent.com/scarf005/Overhaul/v0.0.1/icon.webp) |
+[Overhaul Additions](https://github.com/scarf005/Overhaul/archive/refs/tags/v0.0.1.zip)
+| 비창,고양이,Xotto,로갤 | 0.0.1 | Optional appearance, mutation, item, and
+vehicle part additions for Overhaul. | |
+![Icon](https://raw.githubusercontent.com/scarf005/Overhaul/v0.0.1/icon.webp) |
+[Overhaul Tileset](https://github.com/scarf005/Overhaul/archive/refs/tags/v0.0.1.zip)
+| 비창,고양이,Xotto,로갤 | 0.0.1 | Anime-style graphical tileset for Bright
+Nights. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [PM-Militia Rifleman](https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip)
