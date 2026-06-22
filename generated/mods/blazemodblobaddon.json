@@ -10,7 +10,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/yowshi/BlobExpansion",
-  "version": "2026.6.20-470de1c",
+  "version": "2026.6.22-0f64678",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -128,6 +128,15 @@
         "commit_sha": "470de1c49e5cb2713e5a5a1e58771f634ccea989"
       },
       "released_at": "2026-06-19T03:56:13.250Z"
+    },
+    {
+      "version": "2026.6.20-470de1c",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip",
+        "commit_sha": "470de1c49e5cb2713e5a5a1e58771f634ccea989"
+      },
+      "released_at": "2026-06-20T02:49:05.684Z"
     }
   ],
   "dependencies": {
@@ -136,7 +145,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip",
-    "commit_sha": "470de1c49e5cb2713e5a5a1e58771f634ccea989"
+    "commit_sha": "0f64678f2cdc8ed938de87bb847867db83463f45"
   },
   "categories": [
     "content"
@@ -147,5 +156,5 @@
     "type": "commit",
     "branch": "master"
   },
-  "last_updated": "2026-06-20T02:49:05.684Z"
+  "last_updated": "2026-06-22T03:33:48.579Z"
 }

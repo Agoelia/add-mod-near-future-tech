@@ -351,7 +351,7 @@ fancy needs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Augmented Arsenal](https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip)
-| Thelonestander | 2026.6.20-3a39625 | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.6.22-dc7cf2e | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Cata++ patchmod](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
@@ -595,13 +595,13 @@ changes and mutagen accumulation. | |
 |
 [Otopack BN Mk 2](https://github.com/NarandBD/Otopack-BN-Mk-2/archive/refs/tags/sorrynotsorry.zip)
 | NarandBD | 2026.2.12 | Soundpack maintained for Cataclysm: Bright Nights. | |
-![Icon](https://raw.githubusercontent.com/scarf005/Overhaul/v0.0.1/icon.webp) |
-[Overhaul Additions](https://github.com/scarf005/Overhaul/archive/refs/tags/v0.0.1.zip)
-| 비창,고양이,Xotto,로갤 | 0.0.1 | Optional appearance, mutation, item, and
+![Icon](https://raw.githubusercontent.com/scarf005/Overhaul/v0.0.2/icon.webp) |
+[Overhaul Additions](https://github.com/scarf005/Overhaul/archive/refs/tags/v0.0.2.zip)
+| 비창,고양이,Xotto,로갤 | 0.0.2 | Optional appearance, mutation, item, and
 vehicle part additions for Overhaul. | |
-![Icon](https://raw.githubusercontent.com/scarf005/Overhaul/v0.0.1/icon.webp) |
-[Overhaul Tileset](https://github.com/scarf005/Overhaul/archive/refs/tags/v0.0.1.zip)
-| 비창,고양이,Xotto,로갤 | 0.0.1 | Anime-style graphical tileset for Bright
+![Icon](https://raw.githubusercontent.com/scarf005/Overhaul/v0.0.2/icon.webp) |
+[Overhaul Tileset](https://github.com/scarf005/Overhaul/archive/refs/tags/v0.0.2.zip)
+| 비창,고양이,Xotto,로갤 | 0.0.2 | Anime-style graphical tileset for Bright
 Nights. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -776,7 +776,7 @@ WACKINESS OR ONLY IF YOU ARE TESTING | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Return Of The Blob](https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip)
-| Dev_Null,yowshi | 2026.6.20-470de1c | Blob based survival and technology. Adds
+| Dev_Null,yowshi | 2026.6.22-0f64678 | Blob based survival and technology. Adds
 comprehensive slime-based equipment, creatures, and amphibious vehicle parts
 that can transition seamlessly between land and water. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
