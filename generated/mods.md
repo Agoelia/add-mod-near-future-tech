@@ -249,7 +249,7 @@ foldable, and adds foldable quarterboards. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Gawr Gura Mutation](https://github.com/ihatenumbers/BN_Gawr_Gura/archive/refs/heads/main.zip)
-| ihatenumbers | 2026.6.20-68daf62 | Adds a shark-girl mutation category
+| ihatenumbers | 2026.6.23-434cb93 | Adds a shark-girl mutation category
 inspired by Gawr Gura. Descend from the lost city of Atlantis and embrace your
 inner apex predator of the seas! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -347,15 +347,15 @@ fancy needs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Atomic additions](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
-| Thelonestander | 2026.6.20-e50dcbd | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.6.23-286511e | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Augmented Arsenal](https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip)
-| Thelonestander | 2026.6.22-dc7cf2e | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.6.23-daa3a32 | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Cata++ patchmod](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
-| Thelonestander | 2026.6.20-e50dcbd | Patch mod for acs stealth cloak to be
+| Thelonestander | 2026.6.23-286511e | Patch mod for acs stealth cloak to be
 used for cata++. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -776,7 +776,7 @@ WACKINESS OR ONLY IF YOU ARE TESTING | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Return Of The Blob](https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip)
-| Dev_Null,yowshi | 2026.6.22-0f64678 | Blob based survival and technology. Adds
+| Dev_Null,yowshi | 2026.6.23-60c08fd | Blob based survival and technology. Adds
 comprehensive slime-based equipment, creatures, and amphibious vehicle parts
 that can transition seamlessly between land and water. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)

@@ -14,7 +14,7 @@ author:
   - yowshi
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yowshi/BlobExpansion"
-version: 2026.6.22-0f64678
+version: 2026.6.23-60c08fd
 previous_releases:
   - version: 0.0.0
     source:
@@ -100,12 +100,18 @@ previous_releases:
       url: "https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip"
       commit_sha: 470de1c49e5cb2713e5a5a1e58771f634ccea989
     released_at: "2026-06-20T02:49:05.684Z"
+  - version: 2026.6.22-0f64678
+    source:
+      type: github_archive
+      url: "https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip"
+      commit_sha: 0f64678f2cdc8ed938de87bb847867db83463f45
+    released_at: "2026-06-22T03:33:48.579Z"
 dependencies:
   bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip"
-  commit_sha: 0f64678f2cdc8ed938de87bb847867db83463f45
+  commit_sha: 60c08fdd43d84a606512a0a669f2c514089cde59
 categories:
   - content
 modinfo_url: >-
@@ -114,4 +120,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2026-06-22T03:33:48.579Z"
+last_updated: "2026-06-23T02:40:27.407Z"
