@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_More_Survivor_Stuff",
-  "version": "2026.6.20-53b55a3",
+  "version": "2026.6.25-2a87768",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -140,6 +140,16 @@
         "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_More_Survivor_Stuff"
       },
       "released_at": "2026-06-19T03:55:55.372Z"
+    },
+    {
+      "version": "2026.6.20-53b55a3",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+        "commit_sha": "53b55a3b6e7fc2632f50111f560f4a72bdb7d13b",
+        "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_More_Survivor_Stuff"
+      },
+      "released_at": "2026-06-20T02:48:54.524Z"
     }
   ],
   "yanked": {
@@ -151,7 +161,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
-    "commit_sha": "53b55a3b6e7fc2632f50111f560f4a72bdb7d13b",
+    "commit_sha": "2a877689a9c119da012e84146b1355f325c3a0bd",
     "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_More_Survivor_Stuff"
   },
   "categories": [
@@ -163,5 +173,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-20T02:48:54.524Z"
+  "last_updated": "2026-06-25T02:41:19.012Z"
 }
